@@ -212,6 +212,59 @@
     .acc-list li:last-child { border-bottom: none; }
     .acc-list li::before { content: '→ '; color: var(--gold); font-weight: bold; }
 
+    /* ── BLOCK HEADERS (itinerary) ── */
+    .block-header {
+      border-radius: 12px; padding: 1.1rem 1.4rem; margin: 1.5rem 0 0.6rem;
+      display: flex; align-items: center; gap: 1rem; color: white;
+    }
+    .block-header.navy     { background: linear-gradient(135deg, #1a3a5c, #2a5a8c); }
+    .block-header.london   { background: linear-gradient(135deg, #b01833, #e03050); }
+    .block-header.cotswolds{ background: linear-gradient(135deg, #246840, #3a9a60); }
+    .block-header.scotland { background: linear-gradient(135deg, #5a3f96, #8a6fd0); }
+    .block-icon { font-size: 2rem; flex-shrink: 0; }
+    .block-header h3 { font-size: 1.05rem; font-weight: bold; margin-bottom: 0.15rem; }
+    .block-header p  { font-size: 0.8rem; opacity: 0.82; margin: 0; font-style: italic; }
+    .block-nights {
+      margin-left: auto; font-size: 0.72rem; opacity: 0.75; white-space: nowrap;
+      text-transform: uppercase; letter-spacing: 0.08em;
+    }
+
+    /* ── DAY SCHEDULE (itinerary) ── */
+    .day-time {
+      font-size: 0.7rem; font-weight: bold; text-transform: uppercase;
+      letter-spacing: 0.1em; margin: 0.85rem 0 0.3rem; color: var(--muted);
+    }
+    .day-time:first-child { margin-top: 0; }
+    .day-acts { list-style: none; margin: 0; padding: 0; }
+    .day-acts li {
+      font-size: 0.87rem; padding: 0.3rem 0; border-bottom: 1px solid var(--border); line-height: 1.5;
+    }
+    .day-acts li:last-child { border-bottom: none; }
+    .day-acts li strong { color: var(--navy); }
+    .day-num {
+      display: inline-flex; align-items: center; justify-content: center;
+      width: 1.9rem; height: 1.9rem; border-radius: 50%; background: var(--bg);
+      font-size: 0.78rem; font-weight: bold; color: var(--navy); flex-shrink: 0;
+    }
+    .day-split {
+      display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin: 0.5rem 0;
+    }
+    .day-split-panel {
+      background: #faf9f7; border-radius: 8px; padding: 0.75rem; border: 1px solid var(--border);
+    }
+    .day-split-panel h5 {
+      font-size: 0.75rem; font-weight: bold; text-transform: uppercase;
+      letter-spacing: 0.07em; margin-bottom: 0.5rem; color: var(--navy);
+    }
+    .day-tbd {
+      background: #f8f6f2; border-radius: 10px; padding: 1.2rem; text-align: center;
+      color: var(--muted); font-style: italic; border: 2px dashed var(--border); margin: 0.25rem 0 0.85rem;
+    }
+    @media (max-width: 580px) {
+      .day-split { grid-template-columns: 1fr; }
+      .block-nights { display: none; }
+    }
+
     /* ── DAY PLACEHOLDER ── */
     .placeholder-itinerary {
       text-align: center; padding: 3rem 2rem; background: white;
@@ -290,11 +343,11 @@
 <header class="hero">
   <div class="hero-emoji">✈️ 🏰 🏴󠁧󠁢󠁳󠁣󠁴󠁿</div>
   <h1>Britain 2026</h1>
-  <p class="subtitle">A family adventure through England, Wales &amp; Scotland · July 2026</p>
+  <p class="subtitle">A family adventure through England &amp; Scotland · July 2026</p>
   <div class="hero-stats">
     <div><span class="stat-num">5</span><span class="stat-label">Travelers</span></div>
     <div><span class="stat-num">~19</span><span class="stat-label">Days</span></div>
-    <div><span class="stat-num">3</span><span class="stat-label">Countries</span></div>
+    <div><span class="stat-num">4</span><span class="stat-label">Regions</span></div>
     <div><span class="stat-num">4+</span><span class="stat-label">Castle Stays</span></div>
   </div>
 </header>
@@ -365,7 +418,7 @@
       <li><span class="ci">☀️</span><div><strong>July notes:</strong> Peak season — long daylight (Scotland stays light until ~10:30pm). Book everything well in advance. Scotland midges are active in July; bring repellent for evenings outdoors.</div></li>
       <li><span class="ci">✈️</span><div><strong>Airports:</strong> SEA → LHR (arrive London) · Edinburgh or London (depart)</div></li>
       <li><span class="ci">🚗</span><div><strong>Transport:</strong> 7-seat rental MPV for countryside; Tube &amp; trains in London. Consider one-way: pickup London → drop Edinburgh.</div></li>
-      <li><span class="ci">🌍</span><div><strong>Route shape:</strong> London → Cotswolds/South → Wales → Liverpool/Lydiate → Lake District → Scotland/Islay → Edinburgh → York → Alnwick/Durham → back to London</div></li>
+      <li><span class="ci">🌍</span><div><strong>Route shape:</strong> Heathrow → Windsor → London (5 nights, AirBnb) → Wiltshire countryside base → Thornbury Castle → Scotland (Edinburgh · Highlands · Jacobite Steam Train) → fly home from Edinburgh</div></li>
       <li><span class="ci">🏰</span><div><strong>Accommodation:</strong> Castle hotels at key stops; comfortable inns elsewhere. Calm evenings are non-negotiable.</div></li>
       <li><span class="ci">🍞</span><div><strong>Gluten free:</strong> UK law requires allergen disclosure. M&amp;S, Tesco, Waitrose supermarkets have excellent GF ranges. Notify castle hotels 48 hrs ahead.</div></li>
     </ul>
@@ -387,13 +440,679 @@
 <section id="itinerary" class="panel">
   <div class="section-header">
     <h2>Day by Day</h2>
-    <p>Itinerary in progress — check back soon</p>
+    <p>19 days · July 2026 · England &amp; Scotland</p>
   </div>
-  <div class="placeholder-itinerary">
-    <div class="big">🗺</div>
-    <h3>We're Planning the Route</h3>
-    <p>The day-by-day schedule for July 2026 is being put together.<br>This page will be updated as the plan comes together.</p>
+
+  <!-- ════ BLOCK 1: WINDSOR ════ -->
+  <div class="block-header navy">
+    <span class="block-icon">🏰</span>
+    <div>
+      <h3>Block 1 — Windsor</h3>
+      <p>Days 1–2 · Arrive Heathrow → Windsor → Marlow dinner</p>
+    </div>
+    <span class="block-nights">2 nights</span>
   </div>
+  <div class="accordion">
+
+    <div class="accordion-item open">
+      <div class="accordion-head" onclick="toggleAcc(this.parentElement)" style="border-left-color:var(--navy)">
+        <span class="day-num">1</span>
+        <div class="acc-title">
+          <h3>Arrive &amp; Settle In</h3>
+          <p>Heathrow → Windsor · Decompression landing day</p>
+        </div>
+        <div class="acc-tags"><span class="tag family">All Together</span></div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">✈️ Arrival</div>
+        <ul class="day-acts">
+          <li>Land at Heathrow; clear customs and immigration</li>
+          <li>Transfer to Windsor: 20 min by car or hotel transfer (skip the Tube with full bags)</li>
+          <li>Check into hotel; freshen up; breathe</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon</div>
+        <ul class="day-acts">
+          <li><strong>The Long Walk</strong> — 3-mile tree-lined avenue from Windsor Castle to the Great Park. Flat, beautiful, gentle on jet-lagged legs. Walk as far as energy allows and turn back.</li>
+          <li>Thames-side wander through Windsor town centre</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Pub dinner in Windsor — early and relaxed. Early bed. Jet lag management is the only priority today.</li>
+        </ul>
+        <div class="alert info">ℹ️ Pick up the rental car at Heathrow today, or use a hotel transfer for Day 1 and collect the car tomorrow morning.</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head" onclick="toggleAcc(this.parentElement)" style="border-left-color:var(--navy)">
+        <span class="day-num">2</span>
+        <div class="acc-title">
+          <h3>Windsor Castle + Eton + Marlow</h3>
+          <p>Windsor · Eton · Marlow — history, riverside town, dinner with friends</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li><strong>Windsor Castle</strong> — State Rooms and St George's Chapel (burial place of Henry VIII and 9 other monarchs; one of England's finest Gothic chapels). Book timed entry at rct.uk. Allow 2.5–3 hours.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon</div>
+        <ul class="day-acts">
+          <li><strong>Eton College</strong> — cross the footbridge from Windsor; the playing fields, chapel, and architecture are free to walk and admire from the street. A 30–45 min wander.</li>
+          <li>Drive to Marlow (~10 miles along the Thames; 20 min). Explore the town — the Marlow suspension bridge and the Bisham Abbey riverbank are charming pre-dinner territory.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li><strong>Dinner in Marlow with friends</strong> — Marlow is a lovely Thames-side town with excellent restaurants. This is a pleasure in itself, not just an obligation. Coordinate booking with friends.</li>
+        </ul>
+      </div>
+    </div>
+
+  </div><!-- /block 1 accordion -->
+
+  <!-- ════ BLOCK 2: LONDON ════ -->
+  <div class="block-header london">
+    <span class="block-icon">🎭</span>
+    <div>
+      <h3>Block 2 — London</h3>
+      <p>Days 3–7 · AirBnb in Battersea, Clapham, or Putney</p>
+    </div>
+    <span class="block-nights">5 nights</span>
+  </div>
+  <div class="accordion">
+
+    <div class="accordion-item">
+      <div class="accordion-head london" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">3</span>
+        <div class="acc-title">
+          <h3>Richmond + Ted Lasso + The Mousetrap</h3>
+          <p>Windsor → London · Ted Lasso country · West End theatre</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag london">London</span>
+          <span class="tag dad">Dad's Pick</span>
+          <span class="tag warn">⚠ Book</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li>Train Windsor &amp; Eton Riverside → London Waterloo (~55 min). Check into AirBnb, drop bags.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — Ted Lasso Country</div>
+        <ul class="day-acts">
+          <li><strong>Richmond Park</strong> — 2,500 acres of Royal Park; free-roaming red and fallow deer. July is prime deer season. Great family hike. Enter via Richmond Gate or Robin Hood Gate.</li>
+          <li><strong>Richmond Hill viewpoint</strong> — Terrace Gardens at the top; the Thames bend below is the only view in England protected by Act of Parliament.</li>
+          <li><strong>The Prince's Head pub</strong> (Richmond Green, TW9) — the actual Crown &amp; Anchor from Ted Lasso. Fully functioning pub. Walk in and have a pint exactly where Ted and Beard sat.</li>
+        </ul>
+        <div class="day-time">🌙 Evening — The Mousetrap</div>
+        <ul class="day-acts">
+          <li>Pre-theatre dinner near Covent Garden — all routinely handle GF requirements; just ask for the GF menu</li>
+          <li><strong>The Mousetrap</strong>, St Martin's Theatre, West Street WC2H — ~7:30pm curtain. Agatha Christie's murder mystery; running continuously since 1952. Book at delfontmackintosh.co.uk — 2–3 months ahead for July.</li>
+          <li>Richmond → Leicester Square: 35 min via District Line to Embankment, then one stop on Northern Line</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head london" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">4</span>
+        <div class="acc-title">
+          <h3>Warner Bros. Studio Tour + Platform 9¾</h3>
+          <p>Leavesden · King's Cross — the full Harry Potter day</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag london">London</span>
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book Now</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning → Afternoon — All Day</div>
+        <ul class="day-acts">
+          <li>Train: London Euston → Watford Junction (~20 min, frequent departures), then Warner Bros. studio shuttle bus (~15 min)</li>
+          <li><strong>Warner Bros. Studio Tour — The Making of Harry Potter</strong> (Leavesden) — The definitive HP experience. Great Hall, original costumes, Diagon Alley sets, Forbidden Forest, Hogwarts castle model, wand effects throughout, Butterbeer in the backlot. Allow 4–5 hours minimum; many families spend 6. (~£52/adult, ~£42/child)</li>
+        </ul>
+        <div class="day-time">🌅 Late Afternoon — Platform 9¾</div>
+        <ul class="day-acts">
+          <li>Return to Euston by shuttle + train. King's Cross is 2 Tube stops from Euston (Victoria Line, 4 min).</li>
+          <li><strong>Platform 9¾</strong>, King's Cross — trolley-in-the-wall photo op with Gryffindor scarf; official HP shop adjacent. Arrive early evening when the queue has thinned.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Dinner near King's Cross / Islington, or head back to the AirBnb neighbourhood for a quiet evening — this is a big day; the kids will be buzzing but tired</li>
+        </ul>
+        <div class="alert warn">⚠️ Book Warner Bros. the moment your dates are confirmed — July slots sell out many months in advance.</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head london" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">5</span>
+        <div class="acc-title">
+          <h3>Churchill · Westminster · High Tea &amp; Darts · Harrods</h3>
+          <p>Westminster → Mayfair → Knightsbridge · Split afternoon, regroup at Harrods</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag london">London</span>
+          <span class="tag warn">⚠ Book</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — All Together</div>
+        <ul class="day-acts">
+          <li><strong>Churchill's War Rooms</strong>, King Charles Street SW1 (opens 9:30am) — The underground bunker from which Churchill directed WWII. Churchill Museum within. Genuinely atmospheric. Allow 1.5–2 hours. Book at iwm.org.uk</li>
+          <li><strong>Westminster Abbey</strong>, Parliament Square (5-min walk) — Coronation church of England's monarchs since 1066; Poets' Corner; Tomb of the Unknown Warrior; medieval cloisters. Allow 2 hours. Book at westminster-abbey.org</li>
+          <li>Lunch near St James's Park or Piccadilly</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — The Family Splits</div>
+        <div class="day-split">
+          <div class="day-split-panel">
+            <h5>Mom + Daughters</h5>
+            <ul class="day-acts">
+              <li><strong>Fortnum &amp; Mason — The Diamond Jubilee Tea Salon</strong>, 181 Piccadilly W1. Three tiers: finger sandwiches, warm scones with clotted cream + jam, pastries, Fortnum's finest teas. ~£75–85/person. Allow 2 hours. Book months ahead at fortnumandmason.com — mention GF at booking.</li>
+              <li><em>Alternatives:</em> The Savoy (Thames Foyer, ~£85pp) or Claridge's (Art Deco Mayfair, ~£85–90pp) — all equally special, all require advance July booking</li>
+            </ul>
+          </div>
+          <div class="day-split-panel">
+            <h5>Dad + Son</h5>
+            <ul class="day-acts">
+              <li><strong>Flight Club Darts</strong>, Nova, Victoria SW1E — 15-min walk from Westminster. Social darts with electronic scoring, food and drinks. Fun at any skill level; perfect for a 14-year-old. Under-18s permitted with adult (verify current policy). Book at flightclubdarts.com.</li>
+              <li><em>Alternative:</em> ask the AirBnb host for a nearby local pub with a proper darts board — a quieter, more classic experience</li>
+            </ul>
+          </div>
+        </div>
+        <div class="day-time">🌙 Late Afternoon — Regroup at Harrods</div>
+        <ul class="day-acts">
+          <li><strong>Harrods</strong>, Brompton Road SW1 — 15-min walk from both venues via Knightsbridge. Allow 1–1.5 hours. Experience it rather than shop it: the food halls (excellent GF labeling), the spirits department (outstanding single malt selection), the toy hall, the sheer spectacle.</li>
+          <li>Dinner near Knightsbridge or South Kensington; Tube back to AirBnb</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head london" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">6</span>
+        <div class="acc-title">
+          <h3>Day with Friend — Bedfordshire</h3>
+          <p>Day trip by train · St Pancras → Luton or Bedford</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag london">London</span>
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ All Day</div>
+        <ul class="day-acts">
+          <li>Train from London St Pancras International → Luton (~30 min) or → Bedford (~50 min). Let the friend lead the day.</li>
+        </ul>
+        <div class="day-time">🌙 If the visit wraps early</div>
+        <ul class="day-acts">
+          <li><strong>National Gallery</strong>, Trafalgar Square WC2 — world-class collection, free entry, no booking needed. Van Gogh, Rembrandt, Monet, Turner.</li>
+          <li><strong>South Bank walk</strong> — Tate Modern, Millennium Bridge (HP!), Borough Market (outstanding GF food options), Bankside. No booking needed; a perfect free London afternoon.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head london" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">7</span>
+        <div class="acc-title">
+          <h3>British Museum · Tower of London · Leadenhall · Globe</h3>
+          <p>East &amp; Central London · The big history day</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag london">London</span>
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li><strong>British Museum</strong>, Great Russell St WC1 — arrive at opening (10am). Rosetta Stone, Elgin Marbles, Egyptian mummies, Lewis Chessmen, Sutton Hoo helmet. The Great Court glass ceiling is architecturally extraordinary. Allow 2.5–3 hours. Free entry. GF options at the café or Museum Street nearby.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon</div>
+        <ul class="day-acts">
+          <li>Tube: Holborn → Bank (Central Line, 3 stops, 8 min), then walk to the Tower</li>
+          <li><strong>Tower of London</strong>, Tower Hill EC3 — Go straight to the Crown Jewels first (queues build through the day). Yeoman Warder (Beefeater) tour: free with entry, leaves regularly, 45 min, theatrical and excellent. White Tower medieval armour collection. Allow 2.5–3 hours. Book timed entry at hrp.org.uk</li>
+          <li><strong>Tower Bridge</strong> — iconic view; free to walk across, 10 min</li>
+          <li><strong>Leadenhall Market</strong> — 10-min walk through the City. The Bull's Head Passage entrance was the Leaky Cauldron in Harry Potter film 1. Beautiful Victorian iron-and-glass market.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Walk or short bus along the South Bank to the Globe (~25 min via London Bridge, or Tube to Southwark)</li>
+          <li><strong>Shakespeare's Globe Theatre</strong>, Bankside SE1 — Evening performance (~7:30pm): check shakespearesglobe.com for July 2026 programme. Groundling (yard standing) tickets are £5 — extraordinary under the open July sky. Gallery seats £25–45. Book 4–8 weeks ahead.</li>
+          <li><em>Alternative:</em> Daytime Globe tour if a long evening is too much after this day</li>
+          <li><strong>Borough Market</strong> (5-min walk from Globe) — outstanding GF dinner options</li>
+        </ul>
+      </div>
+    </div>
+
+  </div><!-- /block 2 accordion -->
+
+  <!-- ════ BLOCK 3: COUNTRYSIDE ════ -->
+  <div class="block-header cotswolds">
+    <span class="block-icon">🌿</span>
+    <div>
+      <h3>Block 3 — Southern England Countryside</h3>
+      <p>Days 8–13 · Base near Lacock / Bradford-on-Avon, Wiltshire</p>
+    </div>
+    <span class="block-nights">6 nights</span>
+  </div>
+  <div class="accordion">
+
+    <div class="accordion-item">
+      <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">8</span>
+        <div class="acc-title">
+          <h3>London → Avebury → Countryside Base</h3>
+          <p>Pick up car · Drive via the prehistoric landscape</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag cotswolds">Wiltshire</span>
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li>Pick up rental car from London (central location) or Heathrow. Drive southwest: ~1.5 hours to Avebury.</li>
+        </ul>
+        <div class="day-time">🌅 Midday — Avebury &amp; the Prehistoric Landscape</div>
+        <ul class="day-acts">
+          <li><strong>Avebury Stone Circle</strong> — Europe's largest prehistoric stone circle; the village is built inside it. Walk freely among the stones (no barriers, no timed entry). More atmospheric than Stonehenge for many visitors. National Trust; free to access the stones.</li>
+          <li><strong>Silbury Hill</strong> — 5-min drive; roadside viewpoint. Largest prehistoric man-made mound in Europe (~2,400 BC). Mysterious and striking.</li>
+          <li><strong>West Kennet Long Barrow</strong> — 5-min drive + short walk. A 5,500-year-old burial chamber you can actually walk inside. Extraordinary.</li>
+          <li>Lunch at The Red Lion, Avebury — the only pub in the world inside a stone circle; oldest thatched pub in Wiltshire</li>
+        </ul>
+        <div class="day-time">🌙 Afternoon / Evening</div>
+        <ul class="day-acts">
+          <li>Drive to cottage base (~30–45 min). Check in. Grocery run (M&amp;S or Waitrose for excellent GF options). Quiet first countryside evening.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">9</span>
+        <div class="acc-title">
+          <h3>Stonehenge + Salisbury Cathedral + Lacock Abbey</h3>
+          <p>Wiltshire · Three of the best in one day</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag cotswolds">Wiltshire</span>
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book Early</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — Stonehenge</div>
+        <ul class="day-acts">
+          <li><strong>Stonehenge</strong>, near Amesbury — timed entry required; book well ahead at english-heritage.org.uk. Morning light is best (monument faces northeast toward midsummer sunrise). Visitor Centre exhibits are excellent; shuttle to the stones. Allow 2–2.5 hours.</li>
+          <li><em>Inner Circle (Stone Circle Experience)</em> — pre-dawn access, walk among the stones; ~£50–55/person; very limited. Book at the same time as your flights.</li>
+        </ul>
+        <div class="day-time">🌅 Midday — Salisbury</div>
+        <ul class="day-acts">
+          <li><strong>Salisbury Cathedral</strong> — 15-min drive. England's tallest spire (123m); holds one of the four surviving original Magna Carta documents (1215). The cathedral close is one of England's finest. Allow 1–1.5 hours.</li>
+        </ul>
+        <div class="day-time">🌙 Afternoon — Lacock</div>
+        <ul class="day-acts">
+          <li><strong>Lacock Abbey</strong> (National Trust) — 15-min drive. Used as Hogwarts classroom and corridor scenes across multiple HP films. NT family membership covers entry.</li>
+          <li><strong>Lacock village</strong> — entirely National Trust-owned; almost no modern signage; also used in Downton Abbey and Pride &amp; Prejudice. Walk it in the late afternoon when the day-trippers have left.</li>
+        </ul>
+        <div class="alert success">✅ English Heritage family membership (~£140/yr) covers Stonehenge + dozens of other sites. National Trust family membership (~£130/yr) covers Lacock Abbey.</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">10</span>
+        <div class="acc-title">
+          <h3>Bath — Full Day</h3>
+          <p>Roman Baths · Georgian architecture · The best city in England</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag cotswolds">Somerset</span>
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li><strong>Roman Baths</strong> — book timed entry at romanbaths.co.uk; July is peak. Allow 2 hours. Extraordinary Roman preservation; the Great Bath with its columns and steaming green water is genuinely dramatic.</li>
+          <li><strong>The Pump Room</strong> (adjacent to Roman Baths) — morning coffee or lunch in Georgian splendour. GF-friendly. Try the spa water if you're feeling adventurous (warm, slightly mineral-flavoured).</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon</div>
+        <ul class="day-acts">
+          <li><strong>Royal Crescent</strong> — the most perfect Georgian terrace in existence; 30 honey-stone townhouses sweeping in a curve. Free to walk and photograph. No. 1 Royal Crescent is a period museum inside.</li>
+          <li><strong>The Circus</strong> — the circular counterpart to the Royal Crescent, 5-min walk; 33 townhouses forming a perfect circle.</li>
+          <li><strong>Pulteney Bridge</strong> — one of only four bridges in the world with shops on both sides. The weir below it is exceptionally photogenic.</li>
+          <li><strong>Parade Gardens</strong> — riverside gardens below Pulteney Bridge; perfect for a July afternoon rest.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Dinner in Bath — strong GF options throughout the city. Bath is a genuinely good food city. Return to cottage base (20–25 min).</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">11</span>
+        <div class="acc-title">
+          <h3>Wells Cathedral + Glastonbury</h3>
+          <p>Somerset · England's smallest city + Arthurian legend</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag cotswolds">Somerset</span>
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — Wells</div>
+        <ul class="day-acts">
+          <li><strong>Wells Cathedral</strong> — England's smallest city has its most beautiful cathedral close. The <em>scissor arches</em> inside (added 1338 to stabilise the tower) are architecturally extraordinary. Allow 1.5 hours. Suggested donation entry.</li>
+          <li><strong>Vicars' Close</strong> — attached to the Cathedral; the oldest complete medieval street in Europe, still occupied by Cathedral staff. 23 houses unchanged in structure since the 14th century.</li>
+          <li>Lunch in Wells or on the road to Glastonbury</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — Glastonbury</div>
+        <ul class="day-acts">
+          <li><strong>Glastonbury Tor</strong> — 20-min steep climb up the conical hill. Ruined St Michael's Tower at the summit. Views across the Somerset Levels are exceptional on a clear July day. National Trust; free. Allow 1 hour return.</li>
+          <li><strong>Glastonbury Abbey ruins</strong> — below the Tor in the town. Arthurian legend: the supposed burial place of King Arthur and Guinevere. Haunting, romantic ruins in beautiful grounds. (~£10/adult, ~£6/child)</li>
+          <li><strong>Glastonbury High Street</strong> — alternative, colourful, and an experience in itself. Good food and lunch options throughout.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Drive back to cottage base (~50 min). Calm evening in — this is a full day.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">12</span>
+        <div class="acc-title">
+          <h3>Gloucester Cathedral + Cotswolds Villages + Thornbury Castle</h3>
+          <p>Hogwarts cloisters · Villages · Check into Tudor castle</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag cotswolds">Gloucestershire</span>
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — Gloucester Cathedral</div>
+        <ul class="day-acts">
+          <li><strong>Gloucester Cathedral</strong> — the fan-vaulted cloisters were used as Hogwarts corridors in Harry Potter films 1 &amp; 2 (including the "troll in the dungeon" corridor). Free entry. The Great East Window is medieval stained glass. Allow 1–1.5 hours.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — Cotswolds Villages</div>
+        <ul class="day-acts">
+          <li>Pick a cluster (all 30–45 min from Gloucester):
+            <br>→ <strong>Bourton-on-the-Water</strong> — the "Venice of the Cotswolds"; River Windrush runs through the village with low stone footbridges
+            <br>→ <strong>Bibury</strong> — Arlington Row is the most-photographed village scene in England (William Morris called it "the most beautiful village in England")
+            <br>→ <strong>Burford</strong> — working market town with an excellent high street and good food
+          </li>
+        </ul>
+        <div class="day-time">🌙 Evening — Thornbury Castle</div>
+        <ul class="day-acts">
+          <li>Check into <strong>Thornbury Castle</strong> — England's only Tudor castle hotel (built 1511; Henry VIII and Anne Boleyn stayed here). Castle grounds, walled garden, vineyard.</li>
+          <li>Dinner in the Tudor dining room. The treat evening — dress for it.</li>
+        </ul>
+        <div class="alert warn">⚠️ Book Thornbury Castle 6–9 months in advance for July. thornburycastle.co.uk</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">13</span>
+        <div class="acc-title">
+          <h3>Thornbury Castle Morning → Depart for Scotland</h3>
+          <p>Leisurely castle morning · Travel day north</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag cotswolds">Gloucestershire</span>
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li>Leisurely Thornbury Castle breakfast. Wander the walled kitchen garden and vineyard grounds. Late checkout if available.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — Travel North</div>
+        <ul class="day-acts">
+          <li><strong>Option A (Recommended) — Train:</strong> Drive to Bristol or London; return car. LNER King's Cross → Edinburgh Waverley (4.5 hours). Scenic through Northumberland and along the coast. Book 16+ weeks ahead for advance fares (~£40–60/person). Arrive Edinburgh early evening.</li>
+          <li><strong>Option B — Fly from Bristol:</strong> Drive 20 min to Bristol Airport; return car. Fly Bristol → Edinburgh (~1.5 hr). Pick up Edinburgh rental car on arrival. Convenient from Thornbury.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Arrive Edinburgh. Check into Dalhousie Castle (or central Edinburgh for the night). Short, easy first Scottish evening — you've been travelling.</li>
+        </ul>
+      </div>
+    </div>
+
+  </div><!-- /block 3 accordion -->
+
+  <!-- ════ BLOCK 4: SCOTLAND ════ -->
+  <div class="block-header scotland">
+    <span class="block-icon">🏴󠁧󠁢󠁳󠁣󠁴󠁿</span>
+    <div>
+      <h3>Block 4 — Scotland</h3>
+      <p>Days 14–19 · Edinburgh · Highlands · Jacobite Steam Train</p>
+    </div>
+    <span class="block-nights">6 nights</span>
+  </div>
+  <div class="accordion">
+
+    <div class="accordion-item">
+      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">14</span>
+        <div class="acc-title">
+          <h3>Edinburgh — Castle + Royal Mile + Dalhousie Castle</h3>
+          <p>Old Town · Greyfriars Kirkyard (HP) · Check into 13th-century castle</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag scotland">Scotland</span>
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li><strong>Edinburgh Castle</strong> — The volcanic-rock fortress dominating the city skyline. Crown Jewels of Scotland, the Stone of Destiny, One o'Clock Gun. Book timed entry at edinburghcastle.scot. Allow 2.5 hours.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon</div>
+        <ul class="day-acts">
+          <li><strong>The Royal Mile</strong> — the spine of the Old Town from castle to palace. Walk it slowly; closes, wynds, and alleys branch off revealing medieval Edinburgh.</li>
+          <li><strong>Greyfriars Kirkyard</strong> — Edinburgh's most atmospheric graveyard. The gravestone of Thomas Riddell (believed to have inspired Voldemort's name) is here. Also the grave of Greyfriars Bobby. Free.</li>
+          <li><strong>Victoria Street</strong> — the curved, colourful street J.K. Rowling knew well; widely believed to have inspired Diagon Alley.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Drive south to <strong>Dalhousie Castle</strong> (~9 miles, 20 min). Dinner in the dungeon restaurant. 13th-century Scottish castle; falconry school on site.</li>
+        </ul>
+        <div class="alert warn">⚠️ Book Dalhousie Castle 6–9 months ahead for July. dalhousiecastle.co.uk</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">15</span>
+        <div class="acc-title">
+          <h3>Edinburgh — Holyroodhouse + Arthur's Seat</h3>
+          <p>Palace · Parliament · Extinct volcano hike</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag scotland">Scotland</span>
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning</div>
+        <ul class="day-acts">
+          <li><strong>Dalhousie falconry</strong> (optional, book in advance) — a memorable start before heading into the city</li>
+          <li><strong>Palace of Holyroodhouse</strong> — the monarch's official Scottish residence; Mary Queen of Scots lived here; Bonnie Prince Charlie held court here. Audio-guided through spectacular state rooms. Book at rct.uk.</li>
+          <li><strong>Scottish Parliament</strong> building (modern architecture by Enric Miralles) — free guided tours on non-sitting days</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon</div>
+        <ul class="day-acts">
+          <li><strong>Arthur's Seat</strong> — the extinct volcano in Holyrood Park, right behind the Palace. Full summit hike ~45 min from the park; panoramic views across Edinburgh, the Firth of Forth, and on a clear day, the Highland mountains. Moderate difficulty — fine for the whole family.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Edinburgh Old Town for dinner — the Grassmarket, Canongate, or George IV Bridge area all have excellent options with reliable GF menus. Scotland stays light until 10:30pm in July.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">16</span>
+        <div class="acc-title">
+          <h3>Highlands Transit — Stirling · Loch Lomond · Glencoe</h3>
+          <p>Drive north through Scotland's most dramatic landscape</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag scotland">Scotland</span>
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — Stirling</div>
+        <ul class="day-acts">
+          <li><strong>Stirling Castle</strong> — Scotland's most important royal castle; Mary Queen of Scots was crowned here aged 9 months. En route from Edinburgh to the Highlands. Allow 1.5–2 hours. Book at historicenvironment.scot</li>
+          <li><strong>Doune Castle</strong> (en route, ~20 min from Stirling) — Game of Thrones, Outlander, Monty Python &amp; the Holy Grail. Short stop.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon</div>
+        <ul class="day-acts">
+          <li><strong>Loch Lomond</strong> — drive along the eastern shore on the A82. Stop at Luss — a beautiful lochside village. Extraordinary views on a clear July day.</li>
+          <li><strong>Glencoe</strong> — one of the great landscape views in Britain. Drive through the glen; stop at the Three Sisters viewpoint. Site of the 1692 Glencoe Massacre. Also a dramatic HP landscape used in establishing shots.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Arrive Fort William — base for the Jacobite tomorrow. Check into hotel. The Crannog restaurant (fresh seafood on Loch Linnhe) is the best in town if bookable.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">17</span>
+        <div class="acc-title">
+          <h3>Jacobite Steam Train — Fort William to Mallaig</h3>
+          <p>The Hogwarts Express crossing · Glenfinnan Viaduct · Mallaig seafood</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag scotland">Scotland</span>
+          <span class="tag family">All Together</span>
+          <span class="tag warn">⚠ Book Months Ahead</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Early Morning — Glenfinnan Viaduct Viewpoint First</div>
+        <ul class="day-acts">
+          <li>Before boarding: drive to the <strong>Glenfinnan Viaduct viewpoint</strong> (15 min from Fort William). 20-min uphill walk from the car park to the hillside overlook — the elevated view of the 21-arch viaduct across the glen is where the iconic HP shot was filmed. Time the walk to watch the Jacobite cross below you (first departure ~10:15am from Fort William).</li>
+          <li><strong>Glenfinnan Monument</strong> (National Trust for Scotland) — at the loch head, where Bonnie Prince Charlie raised his standard in 1745. Short walk; free.</li>
+        </ul>
+        <div class="day-time">🌅 All Day — The Jacobite</div>
+        <ul class="day-acts">
+          <li><strong>Jacobite Steam Train</strong> — Fort William → Mallaig (2 hrs 15 min each way). Scotland's most scenic railway line: lochs, glens, the Sound of Arisaig. The "Harry Potter train" crossing the Glenfinnan Viaduct. Runs May–October. Book months in advance at westcoastrailways.co.uk (~£38–45/adult return).</li>
+        </ul>
+        <div class="day-time">🌙 Mallaig</div>
+        <ul class="day-acts">
+          <li><strong>Lunch in Mallaig</strong> — a small fishing port at the end of the line. Fresh langoustines, crab, and smoked salmon straight from the boats. Excellent and reliably GF. The seafood here is as good as anywhere in Scotland.</li>
+          <li>Return on the afternoon Jacobite service, or a ScotRail service if the Jacobite return is sold out</li>
+        </ul>
+        <div class="alert warn">⚠️ Jacobite tickets open approximately Feb/Mar and sell out fast for July. Book the moment they're available. westcoastrailways.co.uk</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">18</span>
+        <div class="acc-title">
+          <h3>Scotland Flexible Day</h3>
+          <p>Options: Isle of Skye · Distillery · Islay (if kept)</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag scotland">Scotland</span>
+          <span class="tag family">TBD</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-tbd">Days 18–19 are being shaped. The family will decide between the options below.</div>
+        <div class="day-time">Option A — Isle of Skye</div>
+        <ul class="day-acts">
+          <li>Drive from Fort William to Skye via the Skye Bridge (~1 hr). <strong>The Fairy Pools</strong> (Glenbrittle) — a short hike to stunning turquoise mountain pools. <strong>Old Man of Storr</strong> — iconic rock pinnacle hike (~1 hour). The island is extraordinary; a full day barely scratches it.</li>
+        </ul>
+        <div class="day-time">Option B — Mainland Distillery Visit</div>
+        <ul class="day-acts">
+          <li><strong>Glengoyne Distillery</strong> (near Loch Lomond, on the route south) — unpeated Highland malt; beautiful setting; very visitor-friendly. A strong Islay substitute if that island isn't happening this trip.</li>
+          <li><strong>Auchentoshan Distillery</strong> (Clydebank, near Glasgow) — Scotland's only triple-distilled Lowland malt; accessible and excellent.</li>
+        </ul>
+        <div class="day-time">Option C — Islay</div>
+        <ul class="day-acts">
+          <li>Fly Glasgow → Islay (Loganair, ~45 min) for a 1-night Islay visit. Laphroaig, Ardbeg, Lagavulin distilleries on the famous whisky south coast. Requires advance planning and an overnight stay. See the Must See tab for the full Islay advisory.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">19</span>
+        <div class="acc-title">
+          <h3>Final Day + Fly Home</h3>
+          <p>Edinburgh departure · Fly Edinburgh (or Glasgow) → SEA</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag scotland">Scotland</span>
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Final Morning</div>
+        <ul class="day-acts">
+          <li>Drive to Edinburgh (or Glasgow) for the flight. Fort William → Edinburgh is ~2.5 hours; Fort William → Glasgow is ~2 hours.</li>
+          <li>If time allows before the flight: a final walk on Princes Street, one last look at the Castle from the gardens, or simply a proper Scottish breakfast.</li>
+        </ul>
+        <div class="day-time">✈️ Depart</div>
+        <ul class="day-acts">
+          <li>Fly Edinburgh (EDI) or Glasgow (GLA) → Seattle (SEA). Common routings: via Amsterdam (KLM/Delta), Dublin (Aer Lingus), or direct. A long travel day — the last thing left to plan is the first day you don't have to.</li>
+        </ul>
+        <div class="alert success">✅ 19 days. 5 travelers. Britain done right.</div>
+      </div>
+    </div>
+
+  </div><!-- /block 4 accordion -->
+
 </section>
 
 <!-- ═══════════════ MUST SEE ═══════════════ -->
