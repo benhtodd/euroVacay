@@ -37,25 +37,10 @@
       text-align: center;
     }
     .hero-emoji { font-size: 2.5rem; margin-bottom: 0.5rem; }
-    .hero h1 {
-      font-size: 2.8rem;
-      font-weight: normal;
-      letter-spacing: 0.08em;
-      margin-bottom: 0.4rem;
-    }
-    .hero .subtitle {
-      font-size: 1.05rem;
-      opacity: 0.75;
-      margin-bottom: 2rem;
-      font-style: italic;
-    }
-    .hero-stats {
-      display: flex;
-      justify-content: center;
-      gap: 2.5rem;
-      flex-wrap: wrap;
-    }
-    .stat-num  { display: block; font-size: 2rem; font-weight: bold; color: var(--gold); }
+    .hero h1 { font-size: 2.8rem; font-weight: normal; letter-spacing: 0.08em; margin-bottom: 0.4rem; }
+    .hero .subtitle { font-size: 1.05rem; opacity: 0.75; margin-bottom: 2rem; font-style: italic; }
+    .hero-stats { display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; }
+    .stat-num   { display: block; font-size: 2rem; font-weight: bold; color: var(--gold); }
     .stat-label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.12em; opacity: 0.65; }
 
     /* ── TAB NAV ── */
@@ -70,17 +55,10 @@
       box-shadow: 0 2px 10px rgba(0,0,0,0.07);
     }
     .tab-btn {
-      background: none;
-      border: none;
-      border-bottom: 3px solid transparent;
-      margin-bottom: -2px;
-      padding: 1rem 1.4rem;
-      font-size: 0.88rem;
-      font-family: inherit;
-      color: var(--muted);
-      cursor: pointer;
-      transition: color 0.15s;
-      white-space: nowrap;
+      background: none; border: none;
+      border-bottom: 3px solid transparent; margin-bottom: -2px;
+      padding: 1rem 1.4rem; font-size: 0.88rem; font-family: inherit;
+      color: var(--muted); cursor: pointer; transition: color 0.15s; white-space: nowrap;
     }
     .tab-btn:hover  { color: var(--navy); }
     .tab-btn.active { color: var(--navy); border-bottom-color: var(--gold); font-weight: bold; }
@@ -88,23 +66,15 @@
     /* ── PANELS ── */
     .panel { display: none; max-width: 1080px; margin: 0 auto; padding: 2rem 1rem 4rem; }
     .panel.active { display: block; }
-
     .section-header { text-align: center; margin-bottom: 2rem; }
     .section-header h2 { font-size: 1.9rem; color: var(--navy); font-weight: normal; }
     .section-header p  { color: var(--muted); margin-top: 0.4rem; font-style: italic; }
 
-    /* ── CARDS GRID ── */
-    .card-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
-      gap: 1.25rem;
-    }
+    /* ── CARDS ── */
+    .card-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1.25rem; }
     .card {
-      background: white;
-      border-radius: 12px;
-      padding: 1.4rem;
-      box-shadow: 0 2px 12px rgba(0,0,0,0.07);
-      border-top: 4px solid var(--navy);
+      background: white; border-radius: 12px; padding: 1.4rem;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.07); border-top: 4px solid var(--navy);
     }
     .card.london    { border-top-color: var(--london); }
     .card.scotland  { border-top-color: var(--scotland); }
@@ -118,14 +88,9 @@
 
     /* ── TAGS / CHIPS ── */
     .tag {
-      display: inline-block;
-      padding: 0.18rem 0.55rem;
-      border-radius: 20px;
-      font-size: 0.7rem;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-      margin: 0.15rem 0.15rem 0.15rem 0;
+      display: inline-block; padding: 0.18rem 0.55rem; border-radius: 20px;
+      font-size: 0.7rem; font-weight: bold; text-transform: uppercase;
+      letter-spacing: 0.05em; margin: 0.15rem 0.15rem 0.15rem 0;
     }
     .tag.london    { background: #fde8ec; color: var(--london); }
     .tag.scotland  { background: #ede8f7; color: var(--scotland); }
@@ -135,29 +100,19 @@
     .tag.warn      { background: #fff3cd; color: #7a5a00; }
     .tag.family    { background: #e8f0fe; color: #1a4276; }
     .tag.dad       { background: #f0e8fe; color: #4a1a7a; }
-
     .chip {
-      background: #eeebe6;
-      border-radius: 20px;
-      padding: 0.35rem 0.9rem;
-      font-size: 0.84rem;
-      display: inline-block;
-      margin: 0.2rem;
+      background: #eeebe6; border-radius: 20px; padding: 0.35rem 0.9rem;
+      font-size: 0.84rem; display: inline-block; margin: 0.2rem;
     }
 
     /* ── FAMILY CARDS ── */
     .family-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-      gap: 1rem;
-      margin-bottom: 2rem;
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 1rem; margin-bottom: 2rem;
     }
     .family-card {
-      background: white;
-      border-radius: 12px;
-      padding: 1.25rem 1rem;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.07);
-      text-align: center;
+      background: white; border-radius: 12px; padding: 1.25rem 1rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.07); text-align: center;
     }
     .member-icon { font-size: 2.8rem; margin-bottom: 0.4rem; }
     .family-card h3 { color: var(--navy); font-size: 1rem; margin-bottom: 0.25rem; }
@@ -165,59 +120,62 @@
 
     /* ── INFO BLOCK ── */
     .info-block {
-      background: white;
-      border-radius: 12px;
-      padding: 1.5rem;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.07);
-      margin-bottom: 1.5rem;
+      background: white; border-radius: 12px; padding: 1.5rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.07); margin-bottom: 1.5rem;
     }
     .info-block h3 { color: var(--navy); margin-bottom: 1rem; font-size: 1.05rem; }
 
     /* ── CHECKLIST ── */
     .checklist { list-style: none; }
     .checklist li {
-      display: flex;
-      gap: 0.75rem;
-      align-items: flex-start;
-      padding: 0.55rem 0;
-      border-bottom: 1px solid var(--border);
-      font-size: 0.88rem;
+      display: flex; gap: 0.75rem; align-items: flex-start;
+      padding: 0.55rem 0; border-bottom: 1px solid var(--border); font-size: 0.88rem;
     }
     .checklist li:last-child { border-bottom: none; }
     .checklist li .ci { font-size: 1.1rem; flex-shrink: 0; padding-top: 0.1rem; }
     .checklist a { color: var(--navy); }
 
-    /* ── ALERT BOXES ── */
+    /* ── ALERTS ── */
     .alert {
-      display: flex;
-      gap: 0.6rem;
-      align-items: flex-start;
-      padding: 0.7rem 0.9rem;
-      border-radius: 8px;
-      font-size: 0.84rem;
-      margin: 0.75rem 0;
+      display: flex; gap: 0.6rem; align-items: flex-start;
+      padding: 0.7rem 0.9rem; border-radius: 8px; font-size: 0.84rem; margin: 0.75rem 0;
     }
     .alert.warn    { background: #fff8e1; border-left: 3px solid #f0a500; }
     .alert.info    { background: #e8f4f7; border-left: 3px solid var(--north); }
     .alert.success { background: #eaf6ee; border-left: 3px solid var(--cotswolds); }
 
-    /* ── ACCORDION (Must See) ── */
+    /* ── PHOTO STRIP ── */
+    .photo-strip {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+      gap: 0.6rem;
+      margin: 1rem 0 0.5rem;
+    }
+    .photo-strip figure { margin: 0; }
+    .photo-strip figure a { display: block; }
+    .photo-strip figure img {
+      width: 100%; height: 140px; object-fit: cover;
+      border-radius: 8px; display: block;
+      transition: opacity 0.2s; border: 1px solid var(--border);
+    }
+    .photo-strip figure img:hover { opacity: 0.88; }
+    .photo-strip figcaption {
+      font-size: 0.68rem; color: var(--muted); margin-top: 0.25rem;
+      line-height: 1.3; font-style: italic;
+    }
+    .photo-strip figcaption a { color: var(--muted); text-decoration: none; }
+    .photo-strip figcaption a:hover { text-decoration: underline; }
+
+    /* ── ACCORDION ── */
     .accordion { margin-bottom: 1rem; }
     .accordion-item {
-      background: white;
-      border-radius: 12px;
-      margin-bottom: 0.75rem;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.07);
-      overflow: hidden;
+      background: white; border-radius: 12px; margin-bottom: 0.75rem;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.07); overflow: hidden;
     }
     .accordion-head {
-      display: flex;
-      align-items: center;
-      gap: 0.9rem;
-      padding: 1.1rem 1.4rem;
-      cursor: pointer;
-      border-left: 5px solid var(--navy);
-      user-select: none;
+      display: flex; align-items: center; gap: 0.9rem;
+      padding: 1.1rem 1.4rem; cursor: pointer;
+      border-left: 5px solid var(--navy); user-select: none;
     }
     .accordion-head:hover { background: #faf9f7; }
     .accordion-head.london    { border-left-color: var(--london); }
@@ -233,23 +191,14 @@
     .acc-tags  { flex-shrink: 0; text-align: right; }
     .acc-chevron { font-size: 0.85rem; color: var(--muted); margin-left: 0.5rem; transition: transform 0.2s; flex-shrink: 0; }
     .accordion-item.open .acc-chevron { transform: rotate(180deg); }
-
-    .accordion-body {
-      display: none;
-      padding: 0 1.4rem 1.4rem;
-    }
+    .accordion-body { display: none; padding: 0 1.4rem 1.4rem; }
     .accordion-item.open .accordion-body { display: block; }
-
-    .accordion-body p { font-size: 0.9rem; margin-bottom: 0.75rem; color: var(--text); }
+    .accordion-body > p { font-size: 0.9rem; margin-bottom: 0.75rem; }
 
     .sub-region {
-      font-size: 0.78rem;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      margin: 1rem 0 0.4rem;
-      padding-bottom: 0.25rem;
-      border-bottom: 1px solid var(--border);
+      font-size: 0.78rem; font-weight: bold; text-transform: uppercase;
+      letter-spacing: 0.08em; margin: 1rem 0 0.4rem;
+      padding-bottom: 0.25rem; border-bottom: 1px solid var(--border);
     }
     .sub-region.london    { color: var(--london); }
     .sub-region.scotland  { color: var(--scotland); }
@@ -258,61 +207,15 @@
 
     .acc-list { list-style: none; margin: 0; padding: 0; }
     .acc-list li {
-      padding: 0.4rem 0;
-      font-size: 0.88rem;
-      border-bottom: 1px solid var(--border);
+      padding: 0.4rem 0; font-size: 0.88rem; border-bottom: 1px solid var(--border);
     }
     .acc-list li:last-child { border-bottom: none; }
     .acc-list li::before { content: '→ '; color: var(--gold); font-weight: bold; }
 
-    /* ── DAY CARDS (Itinerary) ── */
-    .day-card {
-      background: white;
-      border-radius: 12px;
-      margin-bottom: 1rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-      overflow: hidden;
-    }
-    .day-head {
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      padding: 0.9rem 1.25rem;
-      background: var(--navy);
-      color: white;
-    }
-    .day-head.london    { background: var(--london); }
-    .day-head.scotland  { background: var(--scotland); }
-    .day-head.wales     { background: var(--wales); }
-    .day-head.cotswolds { background: var(--cotswolds); }
-    .day-head.north     { background: var(--north); }
-    .day-num  { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; opacity: 0.7; }
-    .day-loc  { font-size: 1.05rem; font-weight: bold; }
-    .day-region {
-      margin-left: auto;
-      font-size: 0.7rem;
-      background: rgba(255,255,255,0.18);
-      padding: 0.18rem 0.55rem;
-      border-radius: 10px;
-    }
-    .day-body { padding: 0.9rem 1.25rem; }
-    .day-act  {
-      display: flex;
-      gap: 0.65rem;
-      padding: 0.4rem 0;
-      border-bottom: 1px solid var(--border);
-      font-size: 0.88rem;
-    }
-    .day-act:last-child { border-bottom: none; }
-    .day-act-icon { font-size: 1rem; flex-shrink: 0; }
-
+    /* ── DAY PLACEHOLDER ── */
     .placeholder-itinerary {
-      text-align: center;
-      padding: 3rem 2rem;
-      background: white;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-      color: var(--muted);
+      text-align: center; padding: 3rem 2rem; background: white;
+      border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); color: var(--muted);
     }
     .placeholder-itinerary .big { font-size: 4rem; margin-bottom: 1rem; }
     .placeholder-itinerary h3 { color: var(--navy); margin-bottom: 0.5rem; }
@@ -323,6 +226,8 @@
       .tab-btn  { padding: 0.75rem 0.65rem; font-size: 0.78rem; }
       .panel    { padding: 1rem 0.75rem 3rem; }
       .acc-tags { display: none; }
+      .photo-strip { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); }
+      .photo-strip figure img { height: 110px; }
     }
   </style>
 </head>
@@ -332,7 +237,7 @@
 <header class="hero">
   <div class="hero-emoji">✈️ 🏰 🏴󠁧󠁢󠁳󠁣󠁴󠁿</div>
   <h1>Britain 2026</h1>
-  <p class="subtitle">A family adventure through England, Wales &amp; Scotland</p>
+  <p class="subtitle">A family adventure through England, Wales &amp; Scotland · July 2026</p>
   <div class="hero-stats">
     <div><span class="stat-num">5</span><span class="stat-label">Travelers</span></div>
     <div><span class="stat-num">~19</span><span class="stat-label">Days</span></div>
@@ -403,9 +308,10 @@
   <div class="info-block">
     <h3>Trip at a Glance</h3>
     <ul class="checklist">
-      <li><span class="ci">📅</span><div><strong>Duration:</strong> 15 business days + weekends ≈ 19 days total</div></li>
-      <li><span class="ci">✈️</span><div><strong>Airports:</strong> London Heathrow or Gatwick (arrive) · Edinburgh or London (depart)</div></li>
-      <li><span class="ci">🚗</span><div><strong>Transport:</strong> 7-seat rental MPV for countryside; Tube &amp; trains in London. Consider one-way pickup London → drop Edinburgh.</div></li>
+      <li><span class="ci">📅</span><div><strong>When:</strong> July 2026 · ~15 business days + weekends ≈ 19 days · Start date around July 1st (TBD)</div></li>
+      <li><span class="ci">☀️</span><div><strong>July notes:</strong> Peak season — long daylight (Scotland stays light until ~10:30pm). Book everything well in advance. Scotland midges are active in July; bring repellent for evenings outdoors.</div></li>
+      <li><span class="ci">✈️</span><div><strong>Airports:</strong> SEA → LHR (arrive London) · Edinburgh or London (depart)</div></li>
+      <li><span class="ci">🚗</span><div><strong>Transport:</strong> 7-seat rental MPV for countryside; Tube &amp; trains in London. Consider one-way: pickup London → drop Edinburgh.</div></li>
       <li><span class="ci">🌍</span><div><strong>Route shape:</strong> London → Cotswolds/South → Wales → Liverpool/Lydiate → Lake District → Scotland/Islay → Edinburgh → York → Alnwick/Durham → back to London</div></li>
       <li><span class="ci">🏰</span><div><strong>Accommodation:</strong> Castle hotels at key stops; comfortable inns elsewhere. Calm evenings are non-negotiable.</div></li>
       <li><span class="ci">🍞</span><div><strong>Gluten free:</strong> UK law requires allergen disclosure. M&amp;S, Tesco, Waitrose supermarkets have excellent GF ranges. Notify castle hotels 48 hrs ahead.</div></li>
@@ -415,11 +321,11 @@
   <div class="info-block">
     <h3>🎟 Book These Before Anything Else</h3>
     <ul class="checklist">
-      <li><span class="ci">🎬</span><div><strong>Warner Bros. Studio Tour</strong> — sells out months in advance · <a href="https://www.wbstudiotour.co.uk" target="_blank">wbstudiotour.co.uk</a></div></li>
-      <li><span class="ci">🚂</span><div><strong>Jacobite Steam Train (Hogwarts Express)</strong> — seasonal May–Oct, opens ~Feb/Mar · <a href="https://www.westcoastrailways.co.uk" target="_blank">westcoastrailways.co.uk</a></div></li>
-      <li><span class="ci">🗿</span><div><strong>Stonehenge timed entry</strong> — especially inner circle (pre-dawn access, ~£50–55/person) · <a href="https://www.english-heritage.org.uk/visit/places/stonehenge" target="_blank">english-heritage.org.uk</a></div></li>
-      <li><span class="ci">🏰</span><div><strong>Castle hotel rooms</strong> — limited inventory; book 6–9 months out</div></li>
-      <li><span class="ci">🥃</span><div><strong>Islay distillery tours</strong> — Laphroaig, Ardbeg, Lagavulin book quickly in summer</div></li>
+      <li><span class="ci">🎬</span><div><strong>Warner Bros. Studio Tour</strong> — July dates sell out months ahead · <a href="https://www.wbstudiotour.co.uk" target="_blank">wbstudiotour.co.uk</a></div></li>
+      <li><span class="ci">🚂</span><div><strong>Jacobite Steam Train</strong> — runs May–Oct, books out fast; tickets typically on sale Feb/Mar · <a href="https://www.westcoastrailways.co.uk" target="_blank">westcoastrailways.co.uk</a></div></li>
+      <li><span class="ci">🗿</span><div><strong>Stonehenge timed entry</strong> — July is peak; inner circle (~£50–55/person) books months out · <a href="https://www.english-heritage.org.uk/visit/places/stonehenge" target="_blank">english-heritage.org.uk</a></div></li>
+      <li><span class="ci">🏰</span><div><strong>Castle hotel rooms</strong> — July is peak season; book 6–9 months out</div></li>
+      <li><span class="ci">🥃</span><div><strong>Islay distillery tours</strong> — Summer is the busiest season; book tours in advance</div></li>
     </ul>
   </div>
 </section>
@@ -433,7 +339,7 @@
   <div class="placeholder-itinerary">
     <div class="big">🗺</div>
     <h3>We're Planning the Route</h3>
-    <p>The day-by-day schedule is being put together.<br>This page will be updated as the plan comes together.</p>
+    <p>The day-by-day schedule for July 2026 is being put together.<br>This page will be updated as the plan comes together.</p>
   </div>
 </section>
 
@@ -446,7 +352,7 @@
 
   <div class="accordion">
 
-    <!-- Warner Bros / Harry Potter -->
+    <!-- ── HARRY POTTER ── -->
     <div class="accordion-item">
       <div class="accordion-head london" onclick="toggleAcc(this.parentElement)">
         <span class="acc-icon">⚡</span>
@@ -463,51 +369,111 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
-        <p>The Harry Potter trail spans the length of Britain — from London studios and Oxford libraries all the way to the Scottish Highlands. Plan around the Warner Bros. Studio Tour as an anchor; build the rest of the trail into the route.</p>
+        <p>The Harry Potter trail spans the length of Britain — from London studios and Oxford libraries to the Scottish Highlands. Plan the Warner Bros. Studio Tour as an anchor and build the rest of the trail into the route.</p>
 
         <div class="sub-region london">London</div>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/0/06/Platform_9_3-4_%2815565604565%29.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Platform_9_3-4_%2815565604565%29.jpg/400px-Platform_9_3-4_%2815565604565%29.jpg" alt="Platform 9¾ at King's Cross" loading="lazy">
+            </a>
+            <figcaption>Platform 9¾, King's Cross · <a href="https://commons.wikimedia.org/wiki/File:Platform_9_3-4_(15565604565).jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <ul class="acc-list">
-          <li><strong>Warner Bros. Studio Tour (Leavesden)</strong> — The definitive HP experience. Great Hall, Diagon Alley sets, Hogwarts model, original costumes &amp; props. Allow a full day. Book immediately at wbstudiotour.co.uk (~£52/adult, ~£42/child)</li>
-          <li><strong>Platform 9¾, King's Cross Station</strong> — Trolley photo op with Gryffindor scarf. Go early morning on a weekday to beat the queue. HP shop on site.</li>
-          <li><strong>Leadenhall Market, City of London</strong> — Victorian iron-and-glass market used as the Leaky Cauldron entrance in film 1. Free to walk through.</li>
+          <li><strong>Warner Bros. Studio Tour (Leavesden)</strong> — The definitive HP experience. Great Hall, Diagon Alley sets, Hogwarts model, costumes &amp; props. Allow a full day. Book immediately. (~£52/adult, ~£42/child)</li>
+          <li><strong>Platform 9¾, King's Cross</strong> — Trolley photo op + HP shop. Go early morning on a weekday to beat the queue.</li>
+          <li><strong>Leadenhall Market, City of London</strong> — Victorian iron-and-glass market used as Leaky Cauldron entrance in film 1. Free.</li>
         </ul>
 
         <div class="sub-region cotswolds">Oxford &amp; Wiltshire</div>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/5/52/1283853_I_LACOCK_ABBEY%2C_exterior%2C_E_face_Lacock_20250906_0001.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/1283853_I_LACOCK_ABBEY%2C_exterior%2C_E_face_Lacock_20250906_0001.jpg/400px-1283853_I_LACOCK_ABBEY%2C_exterior%2C_E_face_Lacock_20250906_0001.jpg" alt="Lacock Abbey exterior" loading="lazy">
+            </a>
+            <figcaption>Lacock Abbey, Wiltshire · <a href="https://commons.wikimedia.org/wiki/File:1283853_I_LACOCK_ABBEY,_exterior,_E_face_Lacock_20250906_0001.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <ul class="acc-list">
           <li><strong>Bodleian Library, Oxford</strong> (Duke Humfrey's Library) — Used as Hogwarts library and infirmary across multiple films</li>
-          <li><strong>Christ Church College, Oxford</strong> — The staircase and Great Hall inspired Hogwarts (not the filming location itself)</li>
+          <li><strong>Christ Church College, Oxford</strong> — Staircase and Great Hall inspired Hogwarts</li>
           <li><strong>Lacock Abbey, Wiltshire</strong> (National Trust) — Hogwarts classroom scenes across multiple films. NT family membership recommended.</li>
         </ul>
 
         <div class="sub-region cotswolds">Gloucester</div>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/d/d6/Gloucester_Cathedral_Cloisters.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Gloucester_Cathedral_Cloisters.jpg/400px-Gloucester_Cathedral_Cloisters.jpg" alt="Gloucester Cathedral fan-vaulted cloisters" loading="lazy">
+            </a>
+            <figcaption>Gloucester Cathedral Cloisters — Hogwarts corridors · <a href="https://commons.wikimedia.org/wiki/File:Gloucester_Cathedral_Cloisters.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <ul class="acc-list">
-          <li><strong>Gloucester Cathedral</strong> — Fan-vaulted cloisters used extensively as Hogwarts corridors in films 1 &amp; 2. Free entry (donations welcome).</li>
+          <li><strong>Gloucester Cathedral</strong> — Fan-vaulted cloisters used as Hogwarts corridors in films 1 &amp; 2. Free entry (donations welcome).</li>
         </ul>
 
         <div class="sub-region north">Yorkshire</div>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/6/61/The_Shambles%2C_York.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Shambles%2C_York.jpg/400px-The_Shambles%2C_York.jpg" alt="The Shambles, York" loading="lazy">
+            </a>
+            <figcaption>The Shambles, York — inspiration for Diagon Alley · <a href="https://commons.wikimedia.org/wiki/File:The_Shambles,_York.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <ul class="acc-list">
           <li><strong>The Shambles, York</strong> — Medieval overhanging street that inspired Diagon Alley. Free to walk; combine with York Minster and city walls.</li>
-          <li><strong>Goathland Station (NYMR)</strong> — Used as Hogsmeade Station in film 1. Ride the North Yorkshire Moors Railway steam train from Pickering to Whitby via Goathland.</li>
+          <li><strong>Goathland Station (NYMR)</strong> — Used as Hogsmeade Station in film 1. Ride the North Yorkshire Moors Railway steam train from Pickering through Goathland to Whitby.</li>
         </ul>
 
         <div class="sub-region north">Northeast England</div>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/e/e0/Alnwick_Castle.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alnwick_Castle.jpg/400px-Alnwick_Castle.jpg" alt="Alnwick Castle" loading="lazy">
+            </a>
+            <figcaption>Alnwick Castle — Hogwarts exterior, films 1 &amp; 2 · <a href="https://commons.wikimedia.org/wiki/File:Alnwick_Castle.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/6/68/07-Durham-002.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/07-Durham-002.jpg/400px-07-Durham-002.jpg" alt="Durham Cathedral" loading="lazy">
+            </a>
+            <figcaption>Durham Cathedral — Hogwarts courtyards · <a href="https://commons.wikimedia.org/wiki/File:07-Durham-002.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <ul class="acc-list">
-          <li><strong>Alnwick Castle, Northumberland</strong> — Hogwarts exterior in films 1 &amp; 2; flying lesson courtyard. Broomstick training sessions offered. Alnwick Garden &amp; Treehouse Restaurant adjacent (~£17–18/adult).</li>
-          <li><strong>Durham Cathedral</strong> — Cloisters &amp; courtyard used in films 1 &amp; 2 including the snowy Hedwig release scene. Free entry.</li>
+          <li><strong>Alnwick Castle, Northumberland</strong> — Hogwarts exterior in films 1 &amp; 2; flying lesson courtyard. Broomstick training sessions offered in summer. (~£17–18/adult)</li>
+          <li><strong>Durham Cathedral</strong> — Cloisters &amp; courtyard in films 1 &amp; 2 including Hedwig release scene. Free entry.</li>
         </ul>
 
         <div class="sub-region scotland">Scotland</div>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/20210816_Glenfinnan_Viaduct-8954.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/20210816_Glenfinnan_Viaduct-8954.jpg/400px-20210816_Glenfinnan_Viaduct-8954.jpg" alt="Jacobite steam train crossing Glenfinnan Viaduct" loading="lazy">
+            </a>
+            <figcaption>Jacobite steam train at Glenfinnan Viaduct · <a href="https://commons.wikimedia.org/wiki/File:20210816_Glenfinnan_Viaduct-8954.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/1/17/Glenfinnan_Viaduct.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Glenfinnan_Viaduct.jpg/400px-Glenfinnan_Viaduct.jpg" alt="Glenfinnan Viaduct from the hillside" loading="lazy">
+            </a>
+            <figcaption>Glenfinnan Viaduct from the viewpoint · <a href="https://commons.wikimedia.org/wiki/File:Glenfinnan_Viaduct.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <ul class="acc-list">
-          <li><strong>Glenfinnan Viaduct, Highlands</strong> — The Hogwarts Express crossing in films 2 &amp; 3. Free viewpoint via 20-min uphill walk from car park. Time your visit to watch the Jacobite cross.</li>
-          <li><strong>Jacobite Steam Train</strong> — Fort William to Mallaig across the viaduct. Seasonal May–Oct. Book months ahead at westcoastrailways.co.uk (~£38–45/adult return)</li>
+          <li><strong>Glenfinnan Viaduct, Highlands</strong> — The Hogwarts Express crossing in films 2 &amp; 3. Free viewpoint via 20-min uphill walk. Time visit to watch the Jacobite cross.</li>
+          <li><strong>Jacobite Steam Train</strong> — Fort William to Mallaig across the viaduct. Runs May–Oct. Book months ahead. (~£38–45/adult return)</li>
         </ul>
 
-        <div class="alert warn">⚠️ Warner Bros. Studio Tour: book the moment your travel dates are confirmed — it sells out.</div>
+        <div class="alert warn">⚠️ Warner Bros. Studio Tour: book the moment your travel dates are confirmed — July slots fill fast.</div>
         <div class="alert success">✅ National Trust family membership (~£130–150/yr) covers Lacock Abbey plus many other stops on this trip.</div>
       </div>
     </div>
 
-    <!-- Ted Lasso -->
+    <!-- ── TED LASSO ── -->
     <div class="accordion-item">
       <div class="accordion-head london" onclick="toggleAcc(this.parentElement)">
         <span class="acc-icon">⚽</span>
@@ -522,19 +488,27 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
-        <p>Ted Lasso was filmed almost entirely in the Richmond upon Thames borough of southwest London — a genuinely lovely area worth a half-day visit independent of the TV connection.</p>
+        <p>Ted Lasso was filmed almost entirely in the Richmond upon Thames borough of southwest London — a genuinely lovely area worth a half-day visit in its own right.</p>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/A_small_group_of_deer_in_Richmond_Park_-_geograph.org.uk_-_2410532.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/A_small_group_of_deer_in_Richmond_Park_-_geograph.org.uk_-_2410532.jpg/400px-A_small_group_of_deer_in_Richmond_Park_-_geograph.org.uk_-_2410532.jpg" alt="Deer in Richmond Park" loading="lazy">
+            </a>
+            <figcaption>Richmond Park deer · <a href="https://commons.wikimedia.org/wiki/File:A_small_group_of_deer_in_Richmond_Park_-_geograph.org.uk_-_2410532.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <ul class="acc-list">
           <li><strong>The Prince's Head pub</strong> (Richmond Green, TW9) — The actual Crown &amp; Anchor. A functioning pub. Walk in, have a pint exactly where Ted and Beard sat.</li>
           <li><strong>Selhurst Park, Crystal Palace FC</strong> (SE25) — The real AFC Richmond. Stadium tours available at cpfc.co.uk. ~30 min from Richmond by train.</li>
-          <li><strong>Richmond Green &amp; riverside</strong> — Walking and street scenes filmed throughout the area. Beautiful Thames-side walks.</li>
+          <li><strong>Richmond Green &amp; riverside</strong> — Walking and street scenes filmed throughout the area.</li>
           <li><strong>Richmond Park</strong> — 2,500 acres of Royal Park with free-roaming red and fallow deer. Excellent family hike.</li>
-          <li><strong>Richmond Hill viewpoint</strong> — The bend in the Thames from the Terrace Gardens. The only view in England protected by an Act of Parliament.</li>
+          <li><strong>Richmond Hill viewpoint</strong> — The Thames bend from the Terrace Gardens — the only view in England protected by an Act of Parliament.</li>
         </ul>
-        <div class="alert info">ℹ️ Richmond: District Line (end of line) or South Western Railway from London Waterloo. Combine with Kew Royal Botanic Gardens nearby.</div>
+        <div class="alert info">ℹ️ Richmond: District Line (end of line) or South Western Railway from London Waterloo. July evenings here are lovely — great spot for a calm dinner by the river.</div>
       </div>
     </div>
 
-    <!-- Stonehenge -->
+    <!-- ── STONEHENGE ── -->
     <div class="accordion-item">
       <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
         <span class="acc-icon">🗿</span>
@@ -549,19 +523,27 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
-        <p>Non-negotiable. About 90 min from London by car, easily combined with Lacock Abbey (Harry Potter) or the Cotswolds in the same day. Timed entry required — book at english-heritage.org.uk.</p>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/600px-Stonehenge2007_07_30.jpg" alt="Stonehenge" loading="lazy">
+            </a>
+            <figcaption>Stonehenge, Wiltshire · <a href="https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
+        <p>Non-negotiable. About 90 min from London by car. July is peak season — timed entry books out well in advance. Book at english-heritage.org.uk.</p>
         <ul class="acc-list">
-          <li>Standard tickets: view the stones from a circular path ~10–15m away. Visitor Centre has excellent exhibits + 360° immersive experience. (~£30–32/adult, ~£18–20/child)</li>
+          <li>Standard tickets view the stones from a circular path ~10–15m away. Visitor Centre has excellent exhibits + 360° immersive experience. (~£30–32/adult, ~£18–20/child)</li>
           <li><strong>Inner Circle (Stone Circle Experience)</strong> — pre-dawn or post-dusk access, walk among the stones. ~£50–55/person, very limited, books far in advance.</li>
           <li>Pair with <strong>Salisbury Cathedral</strong> (15 min away) — holds one of the four original Magna Carta documents</li>
-          <li>Morning light is best; the monument faces northeast toward midsummer sunrise</li>
+          <li>Morning light is best; monument faces northeast toward midsummer sunrise</li>
           <li>English Heritage family membership (~£140/yr) covers Stonehenge free + dozens of other sites</li>
         </ul>
-        <div class="alert warn">⚠️ Inner circle access is extremely limited. Book at the same time as your flights.</div>
+        <div class="alert warn">⚠️ July is the busiest month. Inner circle access is extremely limited. Book inner circle tickets at the same time as your flights.</div>
       </div>
     </div>
 
-    <!-- Islay Distilleries -->
+    <!-- ── ISLAY DISTILLERIES ── -->
     <div class="accordion-item">
       <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
         <span class="acc-icon">🥃</span>
@@ -576,23 +558,61 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/9/9d/Scotland_Argyll_Bute_Islay_Kildalton_Landscape_04.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scotland_Argyll_Bute_Islay_Kildalton_Landscape_04.jpg/400px-Scotland_Argyll_Bute_Islay_Kildalton_Landscape_04.jpg" alt="Islay landscape" loading="lazy">
+            </a>
+            <figcaption>Islay, Scotland · <a href="https://commons.wikimedia.org/wiki/File:Scotland_Argyll_Bute_Islay_Kildalton_Landscape_04.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/b/b8/Laphroaig_Distillery.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Laphroaig_Distillery.jpg/400px-Laphroaig_Distillery.jpg" alt="Laphroaig Distillery" loading="lazy">
+            </a>
+            <figcaption>Laphroaig Distillery · <a href="https://commons.wikimedia.org/wiki/File:Laphroaig_Distillery.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/e/ee/Ardbeg_Distillery.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ardbeg_Distillery.jpg/400px-Ardbeg_Distillery.jpg" alt="Ardbeg Distillery" loading="lazy">
+            </a>
+            <figcaption>Ardbeg Distillery · <a href="https://commons.wikimedia.org/wiki/File:Ardbeg_Distillery.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/f/fc/2019-05-05_Lagavulin_Distillery.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/2019-05-05_Lagavulin_Distillery.jpg/400px-2019-05-05_Lagavulin_Distillery.jpg" alt="Lagavulin Distillery" loading="lazy">
+            </a>
+            <figcaption>Lagavulin Distillery · <a href="https://commons.wikimedia.org/wiki/File:2019-05-05_Lagavulin_Distillery.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/8/89/Bowmore_%289860675734%29.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bowmore_%289860675734%29.jpg/400px-Bowmore_%289860675734%29.jpg" alt="Bowmore Distillery" loading="lazy">
+            </a>
+            <figcaption>Bowmore Distillery · <a href="https://commons.wikimedia.org/wiki/File:Bowmore_(9860675734).jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/9/96/Kilchoman_Distillery.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kilchoman_Distillery.jpg/400px-Kilchoman_Distillery.jpg" alt="Kilchoman Distillery" loading="lazy">
+            </a>
+            <figcaption>Kilchoman Distillery · <a href="https://commons.wikimedia.org/wiki/File:Kilchoman_Distillery.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <p>Islay is home to 8 distilleries producing Scotland's most celebrated peaty single malts. A full-day distillery circuit — or ideally an overnight stay — is a highlight for whisky lovers. Ferry from Kennacraig (~2 hrs) or fly from Glasgow.</p>
         <ul class="acc-list">
-          <li><strong>Laphroaig</strong> — Royal Warrant holder; intensely peaty and medicinal. Excellent visitor centre.</li>
+          <li><strong>Laphroaig</strong> — Royal Warrant holder; intensely peaty. Excellent visitor centre.</li>
           <li><strong>Ardbeg</strong> — Award-winning; Old Kiln Café is one of the best lunch stops on the island</li>
           <li><strong>Lagavulin</strong> — Classic Islay malt; beautiful waterfront setting</li>
           <li><strong>Bowmore</strong> — Oldest Islay distillery (1779); in the main village</li>
           <li><strong>Bruichladdich</strong> — Progressive, very visitor-friendly; unpeated options available</li>
           <li><strong>Kilchoman</strong> — Smallest farm distillery; personal, intimate experience</li>
-          <li><strong>Bunnahabhain</strong> — Remote and scenic; lighter style; a drive to get there</li>
+          <li><strong>Bunnahabhain</strong> — Remote and scenic; lighter style</li>
           <li><strong>Caol Ila</strong> — Stunning views across the sound to Jura</li>
         </ul>
-        <div class="alert info">ℹ️ Distilled whisky is generally safe for celiacs — confirm with each distillery. Book tours ahead in summer.</div>
-        <div class="alert warn">⚠️ Islay requires at least 1 overnight stay to do it justice. Food options are limited — plan around distillery cafés.</div>
+        <div class="alert info">ℹ️ Distilled whisky is generally safe for celiacs — confirm with each distillery. Book tours ahead — July is busy on Islay.</div>
+        <div class="alert warn">⚠️ Islay requires at least 1 overnight stay. July evenings are long and beautiful on the island — worth staying for.</div>
       </div>
     </div>
 
-    <!-- Lydiate -->
+    <!-- ── LYDIATE ── -->
     <div class="accordion-item">
       <div class="accordion-head north" onclick="toggleAcc(this.parentElement)">
         <span class="acc-icon">🏘</span>
@@ -607,17 +627,25 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/4/41/Lydiate_Abbey.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Lydiate_Abbey.jpg/400px-Lydiate_Abbey.jpg" alt="Lydiate Abbey ruins" loading="lazy">
+            </a>
+            <figcaption>Lydiate Abbey ruins · <a href="https://commons.wikimedia.org/wiki/File:Lydiate_Abbey.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
         <p>A quiet semi-rural village 8 miles north of Liverpool. A personal stop — a chance to revisit the place Dad once called home, and to show the family where that chapter of the story happened.</p>
         <ul class="acc-list">
           <li><strong>Lydiate Abbey ruins</strong> (St Katherine's Chapel, 15th c.) — A scheduled ancient monument; freely accessible, atmospheric, and little-visited</li>
           <li><strong>The Scotch Piper Inn</strong> — Claimed to be Lancashire's oldest thatched pub (~1320). A genuine piece of living history.</li>
-          <li><strong>Leeds and Liverpool Canal towpath</strong> — Good walking along the canal near the village</li>
+          <li><strong>Leeds and Liverpool Canal towpath</strong> — Pleasant walking along the canal near the village</li>
         </ul>
         <div class="alert info">ℹ️ Combine with a Liverpool day — Albert Dock, Liverpool Cathedral, The Beatles Story. Liverpool Lime Street is ~35 min by bus from Lydiate.</div>
       </div>
     </div>
 
-    <!-- Castle Stays -->
+    <!-- ── CASTLE HOTELS ── -->
     <div class="accordion-item">
       <div class="accordion-head gold" onclick="toggleAcc(this.parentElement)">
         <span class="acc-icon">🏰</span>
@@ -632,17 +660,54 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
-        <p>Castle hotels anchor the trip at key emotional moments. Book 6–9 months in advance — inventory is limited, especially for family rooms.</p>
+        <div class="photo-strip">
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/4/4e/Thornbury_Castle.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Thornbury_Castle.jpg/400px-Thornbury_Castle.jpg" alt="Thornbury Castle" loading="lazy">
+            </a>
+            <figcaption>Thornbury Castle, Gloucestershire · <a href="https://commons.wikimedia.org/wiki/File:Thornbury_Castle.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/8/88/Castell_Rhuthun_-_adfeilion_y_goresgynwyr_%28wel_o_lia_fe_drion_nhw%29_01.JPG" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Castell_Rhuthun_-_adfeilion_y_goresgynwyr_%28wel_o_lia_fe_drion_nhw%29_01.JPG/400px-Castell_Rhuthun_-_adfeilion_y_goresgynwyr_%28wel_o_lia_fe_drion_nhw%29_01.JPG" alt="Ruthin Castle, Wales" loading="lazy">
+            </a>
+            <figcaption>Ruthin Castle, North Wales · <a href="https://commons.wikimedia.org/wiki/File:Castell_Rhuthun_-_adfeilion_y_goresgynwyr_(wel_o_lia_fe_drion_nhw)_01.JPG" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/e/ee/Langley_Castle.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Langley_Castle.jpg/400px-Langley_Castle.jpg" alt="Langley Castle, Northumberland" loading="lazy">
+            </a>
+            <figcaption>Langley Castle, Northumberland · <a href="https://commons.wikimedia.org/wiki/File:Langley_Castle.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/9/9c/Lumely_Castle.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Lumely_Castle.jpg/400px-Lumely_Castle.jpg" alt="Lumley Castle, County Durham" loading="lazy">
+            </a>
+            <figcaption>Lumley Castle, County Durham · <a href="https://commons.wikimedia.org/wiki/File:Lumely_Castle.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/4/4b/Dalhousie_Castle.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dalhousie_Castle.jpg/400px-Dalhousie_Castle.jpg" alt="Dalhousie Castle, Scotland" loading="lazy">
+            </a>
+            <figcaption>Dalhousie Castle, near Edinburgh · <a href="https://commons.wikimedia.org/wiki/File:Dalhousie_Castle.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+          <figure>
+            <a href="https://upload.wikimedia.org/wikipedia/commons/6/62/2017-05_Amberley_Castle_01.jpg" target="_blank">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2017-05_Amberley_Castle_01.jpg/400px-2017-05_Amberley_Castle_01.jpg" alt="Amberley Castle, West Sussex" loading="lazy">
+            </a>
+            <figcaption>Amberley Castle, West Sussex · <a href="https://commons.wikimedia.org/wiki/File:2017-05_Amberley_Castle_01.jpg" target="_blank">© Wikimedia Commons</a></figcaption>
+          </figure>
+        </div>
+        <p>Castle hotels anchor the trip at key emotional moments. July is peak season — book 6–9 months in advance.</p>
         <ul class="acc-list">
           <li><strong>Thornbury Castle</strong> (South Gloucestershire) — Only Tudor castle hotel in England (1511). Henry VIII &amp; Anne Boleyn slept here. ~£195–450/night. thornburycastle.co.uk</li>
           <li><strong>Ruthin Castle</strong> (North Wales) — 13th-century Welsh castle; 30 acres; medieval banquet evenings. Family-friendly. ~£120–250/night. ruthincastle.co.uk</li>
           <li><strong>Langley Castle</strong> (Northumberland) — 14th-century fortified tower castle near Hadrian's Wall. Tower rooms with 7ft-thick walls. ~£120–280/night. langleycastle.com</li>
-          <li><strong>Lumley Castle</strong> (County Durham) — 14th-century quadrangular castle; Black Knight medieval banquets. Best value on the list. ~£100–220/night. lumleycastle.com</li>
+          <li><strong>Lumley Castle</strong> (County Durham) — 14th-century quadrangular castle; Black Knight medieval banquets; close to Durham Cathedral. Best value. ~£100–220/night. lumleycastle.com</li>
           <li><strong>Dalhousie Castle</strong> (near Edinburgh) — 13th-century Scottish castle; falconry school on site; dungeon restaurant. ~£120–300/night. dalhousiecastle.co.uk</li>
           <li><strong>Amberley Castle</strong> (West Sussex) — 900-year-old; portcullis, 12ft walls, 19 rooms. South Downs walks. ~£230–550/night. amberleycastle.co.uk</li>
-          <li><strong>Bovey Castle</strong> (Dartmoor, Devon) — Grand Edwardian estate-castle; family adventure activities (archery, horse riding); Dartmoor access. ~£200–500/night. boveycastle.com</li>
         </ul>
-        <div class="alert success">✅ Lumley Castle and Ruthin Castle offer the best value and are the most family-forward options on this list.</div>
+        <div class="alert success">✅ Lumley Castle and Ruthin Castle offer the best value and are the most family-forward options on this list. Both offer memorable medieval banquet evenings.</div>
       </div>
     </div>
 
@@ -685,9 +750,9 @@
       <p><strong>English Heritage</strong> (~£140/family) — covers Stonehenge + Tintagel Castle + many more.<br><br><strong>National Trust</strong> (~£130–150/family) — covers Lacock Abbey, Alnwick Garden, and hundreds of coastal/countryside sites.</p>
     </div>
     <div class="card wales">
-      <span class="card-icon">🗺</span>
-      <h3>Travel Philosophy</h3>
-      <p>Rick Steves approach: mix guided and independent. Pre-book the big attractions. Leave afternoons flexible for wandering and discovery. <strong>Calm evenings are non-negotiable</strong> — don't overpack days. One spectacular thing per day is enough.</p>
+      <span class="card-icon">☀️</span>
+      <h3>July in Britain</h3>
+      <p>Peak tourist season. Long daylight — Scotland stays light until ~10:30pm. Book everything well ahead. <strong>Scotland midges</strong> are active in July evenings; bring insect repellent for outdoor evenings. Weather is warm but bring a waterproof layer — always.</p>
     </div>
     <div class="card london">
       <span class="card-icon">🚂</span>
