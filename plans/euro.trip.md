@@ -158,13 +158,30 @@ Train from Windsor → London Waterloo: 55 min via Windsor & Eton Riverside.
 
 ---
 
-**Day 6 — Bedfordshire friend**
+**Day 6 — London: National Gallery + South Bank**
 
-- Train from London St Pancras → Luton (30 min) or → Bedford (~50 min)
-- Full day with the friend; let them lead
-- If the visit wraps early, **National Gallery** (Trafalgar Square, free, world-class)
-  or a **South Bank walk** (Tate Modern, Millennium Bridge, Borough Market) fill
-  an afternoon well with no booking needed
+A day without a single ticket or booking — one of the best London can offer.
+
+*Morning:*
+- **National Gallery**, Trafalgar Square WC2 (opens 10am; free entry)
+  Van Gogh's *Sunflowers*, Rembrandt self-portraits, Monet's water lilies, Turner's
+  seascapes, Caravaggio, Velázquez. The Sainsbury Wing covers the Early Renaissance.
+  Allow 2–2.5 hours. Café on site; GF options available.
+
+*Afternoon:*
+- Walk or Tube to the South Bank (Waterloo or Southwark)
+- **Tate Modern** — free entry; the Turbine Hall alone is worth the stop; outstanding
+  contemporary and modern art collection; the building (former Bankside Power Station)
+  is architecturally extraordinary. Allow 1–1.5 hours.
+- Cross the **Millennium Bridge** on foot — Thames views in both directions, St Paul's
+  behind you, the City skyline ahead
+- **Borough Market**, Stoney Street SE1 — one of London's great food markets; excellent
+  GF options at nearly every stall; ideal for a relaxed late lunch or early dinner
+
+*Evening:*
+- Walk the **South Bank riverside path** — street performers, Thames views, the
+  Golden Hinde and Clink Prison museum nearby if the kids want a quick stop
+- Dinner at Borough Market or a Waterloo/Southwark pub; calm evening before Day 7
 
 ---
 
@@ -275,12 +292,15 @@ departing for Scotland, so you leave the countryside feeling like royalty.
   roadside) and West Kennet Long Barrow (5,000-year-old burial chamber, 5-min walk)
 - Check into cottage base. Quiet evening.
 
-**Day 9 — Stonehenge + Salisbury + Lacock**
-- Morning: Stonehenge (timed entry, book well ahead for July)
-- 15 min drive: Salisbury Cathedral — one of England's finest medieval cathedrals;
-  holds one of four surviving original Magna Carta documents
-- Afternoon: Lacock Abbey and village (HP classroom and corridor scenes;
-  walk the village when the coach tours leave)
+**Day 9 — Stonehenge + Salisbury + Lacock Village**
+- Morning: **Stonehenge** (timed entry, book well ahead for July; inner circle if secured)
+- 15 min drive: **Salisbury Cathedral** — one of England's finest medieval cathedrals;
+  holds one of four surviving original Magna Carta documents; England's tallest spire.
+  Allow 1–1.5 hours.
+- Afternoon: **Lacock village** — entirely National Trust-owned; almost no modern signage;
+  historically complete (also used in Downton Abbey and Pride & Prejudice). Free to walk.
+  Arrive in the late afternoon after the coach tours have left — the village is at its
+  best quiet.
 
 **Day 10 — Bath**
 - Full day in Bath — it earns it
@@ -304,15 +324,24 @@ departing for Scotland, so you leave the countryside feeling like royalty.
   experience; good lunch options
 - Back to base for a calm evening
 
-**Day 12 — Cotswolds + Gloucester Cathedral**
-- Morning: Gloucester Cathedral — fan-vaulted cloisters used as Hogwarts corridors
-  in Harry Potter films 1 & 2; free entry, quiet, genuinely beautiful
-- Afternoon: Cotswolds villages — pick a cluster:
-  - **Bourton-on-the-Water** (the "Venice of the Cotswolds" — River Windrush through
-    the village centre; busy in summer but worth it)
-  - **Bibury** (Arlington Row — the most-photographed village scene in England)
-  - **Burford** (working market town, excellent high street, good food)
-- Check into **Thornbury Castle** for the night. Dinner in the Tudor dining room.
+**Day 12 — Cotswolds + Thornbury Castle**
+
+A lighter day — one village, one castle. After the intensity of the week this is the
+right pace before departing for Scotland.
+
+- Morning: One of two good Cotswolds options (both ~20 min from Bourton):
+  - **Chipping Campden** — one of the finest Cotswolds market towns; the old Market
+    Hall, St James's Church, and a beautiful long High Street. Less visited than
+    Bourton; more authentically lived-in.
+  - **Broadway** — wide High Street lined with honey-stone buildings; Broadway Tower
+    (a Gothick folly on the Cotswolds escarpment, ~30-min walk) offers panoramic views
+    across 16 counties on a clear day
+- Midday/Afternoon: **Bourton-on-the-Water** — the River Windrush runs through the
+  village centre with a series of low stone footbridges; busy in summer but the
+  river setting is genuinely lovely
+- Evening: Check into **Thornbury Castle** — England's only Tudor castle hotel (1511;
+  Henry VIII and Anne Boleyn stayed here). Dinner in the Tudor dining room. This is
+  the treat evening of the trip — dress for it.
 
 **Day 13 — Thornbury Castle + depart for Scotland**
 - Leisurely morning at Thornbury — walled kitchen garden, vineyard walk, castle grounds
@@ -345,20 +374,130 @@ in the heart of Edinburgh. Book well ahead.
 
 ## Block 4 — Scotland (Days 14–19)
 
-*Full Scotland plan TBD — core shape:*
+**Accommodation:** Dalhousie Castle (Days 14–15) · Fort William hotel (Day 16) ·
+Glasgow hotel (Day 17) · Islay (Day 18) · fly home Day 19
 
-- **Edinburgh** (2 nights) — Edinburgh Castle, Royal Mile, Greyfriars Kirkyard
-  (Tom Riddle's grave — HP), Palace of Holyroodhouse.
-  Stay: **Dalhousie Castle** (13th century, ~9 miles south of city, falconry school,
-  dungeon restaurant)
-- **Highlands transit** — Stirling Castle, Loch Lomond, Glencoe (one of the great
-  landscape views in Britain)
-- **Fort William / Jacobite Steam Train** (1 full day) — Fort William → Mallaig
-  across Glenfinnan Viaduct. Fresh seafood in Mallaig. Book months ahead.
-- **Glenfinnan Viaduct viewpoint** — walk up from the car park for the elevated
-  view, ideally timed to watch the Jacobite cross (different perspective from
-  being on the train)
-- **Islay** — decision pending; see advisory in must.see.md
+---
+
+**Day 14 — Edinburgh: Castle + Royal Mile + Dalhousie Castle**
+
+*Morning:*
+- **Edinburgh Castle** — Crown Jewels of Scotland, Stone of Destiny, One o'Clock Gun.
+  Book timed entry at edinburghcastle.scot. Allow 2.5 hours.
+
+*Afternoon:*
+- **The Royal Mile** — walk the spine of the Old Town from castle to palace; closes,
+  wynds, and alleys branch off revealing medieval Edinburgh beneath the surface
+
+*Evening:*
+- Drive south to **Dalhousie Castle** (~9 miles, 20 min). Dinner in the dungeon
+  restaurant. 13th-century Scottish castle; falconry school on site.
+
+---
+
+**Day 15 — Edinburgh: Falconry + Holyroodhouse + Arthur's Seat**
+
+*Morning:*
+- **Dalhousie Castle falconry session** (book in advance at dalhousiecastle.co.uk)
+- **Palace of Holyroodhouse** — monarch's official Scottish residence; Mary Queen of
+  Scots lived here; Bonnie Prince Charlie held court here. Audio guide through
+  spectacular state rooms. Book at rct.uk.
+
+*Afternoon:*
+- **Arthur's Seat** — extinct volcano in Holyrood Park, right behind the Palace.
+  45-min hike to the summit; panoramic views across Edinburgh, the Firth of Forth,
+  and the Highland mountains on a clear July day. Moderate difficulty, fine for all.
+
+*Evening:*
+- Dinner in the **Grassmarket** or **Canongate** area of Edinburgh Old Town.
+  Scotland stays light until ~10:30pm in July — a long, lovely evening.
+
+---
+
+**Day 16 — Highlands Transit: Stirling → Loch Lomond → Glencoe → Fort William**
+
+*Morning:*
+- **Stirling Castle** — Scotland's most important royal castle; Mary Queen of Scots
+  crowned here aged 9 months. Allow 1.5–2 hours. Book at historicenvironment.scot
+
+*Afternoon:*
+- **Loch Lomond** — drive along the east shore on the A82; stop at Luss village
+  (a beautiful lochside village; photogenic and worth 30 minutes)
+- **Glencoe** — Three Sisters viewpoint; one of the great landscape views in Britain.
+  Site of the 1692 Glencoe Massacre. Dramatic on any weather.
+
+*Evening:*
+- Arrive **Fort William**. Dinner at The Crannog, if bookable — fresh seafood on
+  Loch Linnhe; the best restaurant in town.
+
+---
+
+**Day 17 — Fort William → Glasgow**
+
+A transition day that earns its keep. Glasgow is a genuinely great city, usually
+skipped in favour of Edinburgh but equally rewarding in its own way — and a natural
+staging point for the Islay flight tomorrow morning.
+
+*Morning:*
+- Leisurely Fort William departure
+- Drive Fort William → Glasgow (~2.5 hours via A82 south through Rannoch Moor and
+  Loch Lomond; the road is beautiful)
+
+*Afternoon:*
+- **Kelvingrove Art Gallery & Museum** — free entry; one of Scotland's greatest
+  museums in a stunning Victorian red-sandstone building. Dalí's *Christ of Saint John
+  of the Cross* is here. Allow 1.5–2 hours.
+- **Glasgow Cathedral** — the only Scottish mainland cathedral to survive the
+  Reformation intact; impressive medieval Gothic interior; free entry
+- **The Necropolis** — Victorian hillside cemetery behind the Cathedral; atmospheric,
+  great views over the city
+
+*Evening:*
+- Dinner in the **Merchant City** or the **West End** — Glasgow has excellent
+  restaurants, a strong GF scene, and genuine warmth. A great last city evening.
+- Overnight in Glasgow, central (near airport for morning Islay flight)
+
+---
+
+**Day 18 — Islay**
+
+*Morning:*
+- **Fly Glasgow → Islay** (Loganair, ~45 min; check schedules at loganair.co.uk).
+  Book well ahead — July flights fill. Return flight booked for Day 19 morning.
+- Check into accommodation in **Port Ellen** or **Bowmore**
+- Lunch at **Ardbeg's Old Kiln Café** — one of the best lunch stops on the island
+
+*Afternoon — South Coast Distillery Circuit:*
+All three are within 3 miles of Port Ellen — one of the great whisky walks in the world:
+- **Ardbeg** — intensely peaty, award-winning; book a tour at ardbeg.com
+- **Lagavulin** — the classic Islay malt; beautiful waterfront setting; book at
+  discovering.lagavulin.com
+- **Laphroaig** — Royal Warrant holder; the most famous Islay name; book at
+  laphroaig.com. Some tours include a walk on the peat bogs.
+
+*Evening:*
+- **Bowmore** village — oldest distillery on Islay (1779); an evening tour or just
+  the village itself. The Harbour Inn, Bowmore is the best dinner on the island.
+- Overnight on Islay. July evenings here are long, beautiful, and very quiet.
+
+**Note:** Distilled whisky is generally safe for celiacs — confirm with each
+distillery. Book all tours in advance; July is Islay's busiest season.
+
+---
+
+**Day 19 — Islay → Glasgow → Fly Home**
+
+*Morning:*
+- Optional: one more distillery before the flight — **Kilchoman** (farm distillery,
+  very personal experience, 20 min from Bowmore) if time allows
+- **Fly Islay → Glasgow** (Loganair morning flight; verify times at booking)
+- Arrive Glasgow by mid-morning; connect to international terminal
+
+*Departure:*
+- **Fly Glasgow (GLA) → Seattle (SEA)** — typical routing via Amsterdam (KLM/Delta)
+  or Dublin (Aer Lingus). Glasgow does have transatlantic service; verify routing
+  when booking flights.
+- Long travel day — Islay whisky in the morning, home by night.
 
 ---
 
@@ -384,24 +523,31 @@ in the heart of Edinburgh. Book well ahead.
 
 ## What's No Longer on This Trip
 
-| Dropped        | Why                                      | Future trip? |
+| Dropped                  | Why                                              | Future trip? |
 |---|---|---|
-| Lydiate        | Liverpool area cut from this structure   | Yes — deserves its own visit |
-| Alnwick Castle | Northeast England cut                    | Yes — strong HP location     |
-| Durham Cathedral | Northeast England cut                  | Yes — great HP cloisters     |
-| York/Shambles  | Northeast England cut                    | Yes — Diagon Alley inspiration |
-| Wales          | Focus narrowed to south                  | Yes — Ruthin/Snowdonia worth it |
-| Lake District  | Focus narrowed to south                  | Yes — needs 3+ days to do right |
+| Lydiate                  | Liverpool area cut from this structure           | Yes — deserves its own visit |
+| Alnwick Castle           | Northeast England cut                            | Yes — great castle experience |
+| Durham Cathedral         | Northeast England cut                            | Yes — fan-vaulted cloisters  |
+| York/Shambles            | Northeast England cut                            | Yes — medieval walled city   |
+| Wales                    | Focus narrowed to south                          | Yes — Ruthin/Snowdonia worth it |
+| Lake District            | Focus narrowed to south                          | Yes — needs 3+ days to do right |
+| Jacobite Steam Train     | Scotland days prioritised for Islay              | Yes — a future Scotland trip |
+| Gloucester Cathedral     | Day 12 lightened; Thornbury the priority         | Yes — genuinely beautiful    |
+| Bibury / Burford         | Day 12 lightened; one village enough             | Yes — easy add on a return   |
+| Lacock Abbey interior    | Village walk kept; abbey skipped                 | Yes — NT membership covers it |
+| Bedfordshire friend visit| Removed from trip; can visit independently       | Coordinate separately        |
 
 ---
 
 ## Booking Priority Order
 
-1. **Warner Bros. Studio Tour** — book immediately (July sellout)
-2. **Jacobite Steam Train** — tickets open Feb/Mar; sell out fast
-3. **Stonehenge timed entry** — especially inner circle (~£50–55/person)
-4. **Thornbury Castle** — July is peak; limited rooms; book 6–9 months out
-5. **Dalhousie Castle** — same lead time
-6. **LNER train King's Cross → Edinburgh** — book 16+ weeks ahead for best fares
-7. **Alnwick broom training** — if added back; seasonal program
-8. **Islay distillery tours** — if Islay is kept in the Scotland plan
+1. **Warner Bros. Studio Tour** — book immediately (July sellout); wbstudiotour.co.uk
+2. **Stonehenge timed entry** — especially inner circle (~£50–55/person); english-heritage.org.uk
+3. **Thornbury Castle** — July is peak; limited rooms; book 6–9 months out; thornburycastle.co.uk
+4. **Dalhousie Castle** — same lead time; dalhousiecastle.co.uk
+5. **Loganair Glasgow → Islay flights** (both directions) — book as soon as dates confirmed; loganair.co.uk
+6. **Islay distillery tours** — Ardbeg, Lagavulin, Laphroaig; book directly with each distillery
+7. **LNER train King's Cross → Edinburgh** — book 16+ weeks ahead for best fares; lner.co.uk
+8. **Fortnum & Mason High Tea** — 2–3 months ahead for July; fortnumandmason.com
+9. **The Mousetrap** — 2–3 months ahead for July; delfontmackintosh.co.uk
+10. **Tower of London / Westminster Abbey / Edinburgh Castle / Roman Baths** — 2–4 weeks ahead
