@@ -65,50 +65,169 @@ Heathrow for the week, or use a drop-and-collect service).
 
 ## Block 2 — London (Days 3–7)
 
-5 nights in an AirBnb. South or west London preferred (Wimbledon, Richmond,
-Putney, Clapham area) — quieter than central, better value, and positions you
-well for the Richmond/Ted Lasso afternoon.
+5 nights in an AirBnb. **South or west London recommended** (Battersea, Clapham,
+Putney, Fulham) — quieter than central, better value for a family apartment,
+well connected by Tube and Overground, and puts Richmond on your doorstep.
 
 Train from Windsor → London Waterloo: 55 min via Windsor & Eton Riverside.
 
-**Day 3 — Gentle London arrival + Ted Lasso**
-- Settle into AirBnb
-- Afternoon: Richmond upon Thames — Richmond Park (red and fallow deer roaming free,
-  2,500 acres), Richmond Hill viewpoint (the Thames bend, only view in England
-  protected by Act of Parliament), The Prince's Head pub on Richmond Green
-  (the actual Crown & Anchor — functioning pub, have a pint where Ted and Beard sat)
-- Easy, unhurried introduction to London
+### Must Sees
+- British Museum · Tower of London · Westminster Abbey
+- Shakespeare's Globe · Churchill's War Rooms · Harrods
 
-**Day 4 — Warner Bros. Studio Tour**
-- Full day at WB Studio Tour, Leavesden (near Watford)
-- Train from London Euston → Watford Junction (~20 min), then studio shuttle
-- Great Hall, Diagon Alley sets, Hogwarts model, original costumes and props
-- Platform 9¾ at King's Cross on the return (15 min from Euston by Tube)
-- Book tickets immediately — July dates sell out months in advance
+### Evenings
+- **The Mousetrap** — Agatha Christie's play (running since 1952), St Martin's
+  Theatre WC2H. Book at delfontmackintosh.co.uk. 2–3 months ahead for July.
+- **High Tea** — Mom + daughters (recommendation below)
+- **Pub Darts** — Dad + son (recommendation below)
 
-**Day 5 — Central London**
-- Tower of London (allow 3 hours; Crown Jewels, Beefeaters, medieval history)
-- Leadenhall Market — beautiful Victorian covered market; used as Leaky Cauldron
-  entrance in Harry Potter and the Philosopher's Stone; free to walk through
-- Borough Market for lunch (exceptional GF options — one of London's best markets)
-- Thames walk: Tower Bridge → Southwark Cathedral → Tate Modern
+---
+
+**Day 3 — Arrive London + Ted Lasso + The Mousetrap**
+
+*Afternoon:*
+- Train Windsor → London Waterloo, settle into AirBnb
+- Richmond upon Thames: Richmond Park (red and fallow deer, 2,500 acres),
+  Richmond Hill viewpoint (the Thames bend, only view in England protected
+  by Act of Parliament), The Prince's Head pub on Richmond Green
+  (the actual Crown & Anchor from Ted Lasso — functioning pub; walk in and have
+  a pint exactly where Ted and Beard sat)
+
+*Evening:*
+- **The Mousetrap**, St Martin's Theatre (~7:30pm curtain)
+- Richmond → Leicester Square: 35 min on District Line to Embankment, change
+  to Northern Line one stop, or walk from Charing Cross
+- Pre-theatre dinner near Covent Garden (strong GF options throughout the area;
+  ask for the GF menu — every Covent Garden restaurant handles it routinely)
+
+---
+
+**Day 4 — Warner Bros. Studio Tour + Platform 9¾**
+
+*All day, all 5 together:*
+- Train London Euston → Watford Junction (~20 min), then studio shuttle bus
+- Warner Bros. Studio Tour, Leavesden — allow 4–5 hours minimum
+  (Great Hall, Diagon Alley, Forbidden Forest, Hogwarts model, original
+  costumes, Butterbeer in the backlot, interactive wand effects throughout)
+- On return: **Platform 9¾ at King's Cross** — trolley photo op with Gryffindor
+  scarf, HP shop. King's Cross is 2 Tube stops from Euston on the Victoria Line.
+- **Book WB tickets immediately** — July dates sell out months in advance
+
+---
+
+**Day 5 — Westminster + Mayfair + High Tea / Darts split + Harrods**
+
+*Morning (all 5 together):*
+- **Churchill's War Rooms**, King Charles Street SW1 (opens 9:30am)
+  The underground bunker from which Churchill ran World War II; the Churchill
+  Museum is within. Allow 1.5–2 hours. Book at iwm.org.uk
+- **Westminster Abbey**, Parliament Square (5-min walk from War Rooms)
+  Coronation church of England's monarchs; Poets' Corner; medieval cloisters;
+  Tomb of the Unknown Warrior. Allow 2 hours. Book at westminster-abbey.org
+- Lunch: near St James's Park or Piccadilly en route to the afternoon split
+
+*Early afternoon — The family splits:*
+
+**Mom + Daughters → High Tea**
+- **Fortnum & Mason, The Diamond Jubilee Tea Salon**, 181 Piccadilly W1
+  - 10-min walk from Westminster through St James's Park
+  - Opened by the Queen in 2012; three floors of beautifully presented sandwiches,
+    warm scones with clotted cream and jam, pastries, and Fortnum's finest teas
+  - ~£75–85 per person. Allow 2 hours. Book months ahead for July at fortnumandmason.com
+  - GF: all dietary requirements accommodated — mention at booking
+  - Alternatives: **The Savoy** (Thames Foyer, very glamorous, ~£85pp) or
+    **Claridge's** (Art Deco Mayfair, ~£85–90pp) — both equally special, all require
+    advance booking for July
+
+**Dad + Son → Darts**
+- **Flight Club**, Nova, Victoria SW1E (15-min walk from Westminster)
+  - Social darts with electronic scoring, food, drinks, great energy — genuinely
+    fun regardless of skill level; perfect for a 14-year-old
+  - Under-18s permitted with an adult (typically until a 9pm cutoff — verify
+    current policy at booking). Book a 2-hour session at flightclubdarts.com
+  - For something more traditional: ask the AirBnb host for a nearby pub with
+    a proper board — a quieter, more classic experience is also valid
+
+*Late afternoon — Regroup at Harrods (all 5):*
+- **Harrods**, Brompton Road SW1 — 15-min walk from both venues via Knightsbridge
+- Allow 1–1.5 hours. Don't try to shop Harrods; experience it:
+  - The food halls (extraordinary; clear GF labeling; great for picking up snacks)
+  - The spirits department (exceptional single malt selection)
+  - The toy hall, ice cream parlour, the sheer spectacle of the building
+- Dinner near Knightsbridge or South Kensington, then Tube back to AirBnb
+
+---
 
 **Day 6 — Bedfordshire friend**
-- Train from London St Pancras → Luton (30 min) or → Bedford (50 min)
-- Full day with the friend, let them lead
-- If friend is closer to London, this day could flex to accommodate a second
-  central London activity (National Gallery, Kew Gardens, South Bank, Oxford)
-- Oxford is 1 hour from London Paddington by train — strong alternative if
-  Bedfordshire day doesn't fill a full day
 
-**Day 7 — Oxford**
-- Train London Paddington → Oxford: 1 hour, frequent service
-- Bodleian Library (Duke Humfrey's Library — used as Hogwarts library and
-  infirmary in multiple films)
-- Christ Church College (Great Hall staircase inspired Hogwarts)
-- Covered Market for lunch (good GF options)
-- Punting on the Cherwell — leisurely, quintessentially Oxford, great for the kids
-- Return to London, pack up. Pick up rental car next morning.
+- Train from London St Pancras → Luton (30 min) or → Bedford (~50 min)
+- Full day with the friend; let them lead
+- If the visit wraps early, **National Gallery** (Trafalgar Square, free, world-class)
+  or a **South Bank walk** (Tate Modern, Millennium Bridge, Borough Market) fill
+  an afternoon well with no booking needed
+
+---
+
+**Day 7 — East London: British Museum + Tower + Leadenhall + Globe**
+
+*Start early — this is the fullest day:*
+
+*Morning:*
+- **British Museum**, Great Russell St WC1 (opens 10am — arrive at opening)
+  Rosetta Stone, Elgin Marbles, Egyptian mummies, Lewis Chessmen, Sutton Hoo
+  helmet. The Great Court's glass roof is architecturally extraordinary. Allow 2.5–3 hrs.
+  Free entry. Café on site; GF options available, or grab lunch on Museum Street.
+
+*Midday:*
+- Tube: Holborn → Bank (Central Line, 3 stops, 8 min), then walk to the Tower
+
+*Afternoon:*
+- **Tower of London**, Tower Hill EC3 — allow 2.5–3 hours
+  - Go straight to the Crown Jewels first (queues build through the day)
+  - Yeoman Warder (Beefeater) tour: free with entry, leaves regularly, 45 min,
+    theatrical and very entertaining — don't skip it
+  - White Tower: medieval armour and arms collection
+  - Book timed entry in advance at hrp.org.uk — July is peak
+- **Tower Bridge walk** — iconic view, free, 15 min
+- **Leadenhall Market** — 10-min walk through the City from Tower Hill
+  (the Bull's Head Passage entrance was the Leaky Cauldron in HP film 1)
+
+*Evening:*
+- Walk or short bus along the South Bank to the Globe (~25 min walk via
+  London Bridge, or Tube to Southwark/London Bridge)
+- **Shakespeare's Globe Theatre**, Bankside SE1
+  - **Option A — Evening performance** (~7:30pm): check shakespearesglobe.com for
+    the July 2026 programme. Groundling (standing yard) tickets are £5 — an
+    extraordinary experience under the open July sky. Covered gallery seats £25–45.
+    Book 4–8 weeks ahead.
+  - **Option B — Daytime tour** (if a long day is too much): excellent guided tours
+    run throughout the day; ~1.5 hours; good for the backstage experience
+- **Borough Market** (5-min walk from Globe) — outstanding GF dinner options;
+  one of London's best food markets for an informal early evening meal
+
+---
+
+### London Booking Checklist
+
+| What | Book at | How far ahead |
+|---|---|---|
+| Warner Bros. Studio Tour | wbstudiotour.co.uk | Immediately |
+| The Mousetrap | delfontmackintosh.co.uk | 2–3 months |
+| Fortnum & Mason High Tea | fortnumandmason.com | 2–3 months for July |
+| Flight Club Darts | flightclubdarts.com | 4–6 weeks |
+| Churchill's War Rooms | iwm.org.uk | 2–4 weeks |
+| Westminster Abbey | westminster-abbey.org | 2–4 weeks |
+| Tower of London | hrp.org.uk | 2–4 weeks |
+| Shakespeare's Globe | shakespearesglobe.com | 4–8 weeks |
+
+### AirBnb Area Recommendation
+
+Look for a 3-bedroom family apartment in **Battersea, Clapham, or Putney**:
+- 15–20 min to central London by Tube or Overground
+- Quieter and more residential than the tourist core
+- Good local restaurants, parks, and a proper neighbourhood feel
+- Better value per square foot than central London
+- Positioned well for the Richmond Day 3 (District Line, end of line)
 
 ---
 
