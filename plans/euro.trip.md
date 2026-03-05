@@ -80,15 +80,14 @@ stone-built, atmospheric — the right base for this block.
 **Day 3 (June 30) — Warner Bros. Studio Tour + Arrive Bradford**
 
 Warner Bros. Studio Tour is in Leavesden, near Watford — only 30 minutes from Windsor.
-Rather than using a London day for this, do it on the transition drive from Windsor to Bradford.
+**Booked: June 30, 14:00 entry.**
 
-- Morning: Check out Windsor hotel; drive to Leavesden (~30 min via M25/M1)
-- All day: Warner Bros. Studio Tour — Great Hall, Diagon Alley sets, Hogwarts model,
-  Butterbeer in the backlot. Allow 4–5 hours minimum.
-- Late afternoon: Drive M4 west to Bradford-on-Avon (~1.5 hours)
-- Evening: Check in; grocery run (M&S or Waitrose for GF stock); quiet first night
-
-**Book immediately** — July dates sell out months in advance; wbstudiotour.co.uk
+- Morning: Relaxed exit from Windsor (14:00 entry allows a leisurely morning). Late checkout or café breakfast.
+- Drive to Leavesden (~30 min via M25/M1). Arrive ~13:30; lunch at the studio café before entry.
+- 14:00: Warner Bros. Studio Tour — Great Hall, Diagon Alley sets, Hogwarts model,
+  Butterbeer in the backlot. Allow 4–5 hours. Tour ends ~18:00–19:00.
+- Evening: Drive M4 west to Bradford-on-Avon (~1.5 hours). Arrive ~19:30–20:30.
+- Check in; grocery run (M&S or Waitrose for GF stock); easy first evening.
 
 ---
 
