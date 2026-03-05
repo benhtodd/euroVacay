@@ -3,18 +3,20 @@
 ## Overview
 
 A family of 5 (Father 57, Mother 44, Daughter 19, Daughter 14, Son 14) spending
-approximately 19 days in the British Isles in July 2026.
+approximately 20 days in the British Isles in June–July 2026.
 
 **Structure:**
-- **Days 1–2:** Windsor (2 nights — first stop from Heathrow)
-- **Days 3–7:** London (5 nights — AirBnb)
-- **Days 8–13:** Southern England countryside (6 nights — one base, see recommendation below)
-- **Days 14–19:** Scotland (6 nights)
+- **Days 1–2:** Windsor (2 nights — June 28–29, first stop from Heathrow)
+- **Days 3–8:** Southern England countryside (5 nights — Bradford-on-Avon, June 30–July 4)
+- **Days 9–14:** Scotland (6 nights + 1 Glasgow bridge night — July 5–11)
+- **Days 15–19:** London (5 nights — VRBO, July 12–16)
 
-**Fly in:** SEA → LHR (London Heathrow)
-**Fly out:** Edinburgh (or Glasgow) → SEA
-**To Scotland:** Train or flight from London (see advisory below — train is the better experience)
-**Car rental:** Pick up at Heathrow on Day 1 or Day 8 (see logistics note below)
+**Fly in:** SEA → LHR (London Heathrow), June 28
+**Fly out:** LHR → SEA, July 17
+**To Scotland:** Train from Bath Spa → London Paddington → King's Cross → Edinburgh Waverley (July 5)
+**Car rental:**
+  - Rental 1: LHR pickup June 28 → Bath Spa drop July 5
+  - Rental 2: Edinburgh pickup July 5 → Glasgow Airport drop July 11
 
 Travel philosophy: Rick Steves / Samantha Brown — thoughtful, experience-first,
 not rushed. Calm evenings are non-negotiable. One great thing per day is enough.
@@ -23,531 +25,364 @@ not rushed. Calm evenings are non-negotiable. One great thing per day is enough.
 
 ## Must Haves (Non-Negotiable)
 
-1. **Warner Bros. Studio Tour** — full day, book immediately on date confirmation
+1. **Warner Bros. Studio Tour** — done en route Windsor → Bradford (June 30); book immediately
 2. **Stonehenge** — timed entry required; inner circle if possible
-3. **Avebury** — free entry, walk among the stones; pairs naturally with Stonehenge day
+3. **Avebury** — free entry, walk among the stones; first full countryside day
 4. **Bath** — Roman Baths, Georgian architecture, excellent food; full day
-5. **Ted Lasso filming locations** — Richmond upon Thames
-6. **Glastonbury / Wells** — Glastonbury Tor + Wells Cathedral, one day
-7. **Cotswolds** — villages, countryside, views; at least one full day
-8. **Glenfinnan Viaduct + Jacobite Steam Train** (Scotland) — book months ahead
-9. **Castle hotel stay** — at minimum one; Thornbury Castle is the pick for this route
-10. **Dinner with friends near Marlow** — best scheduled during Windsor stay (10 miles away)
-11. **Day with friend near Bedfordshire** — best scheduled from London (30–60 min by train)
+5. **Ted Lasso filming locations** — Richmond upon Thames (London block)
+6. **Glastonbury / Wells** — Glastonbury Tor + Wells Cathedral
+7. **Cotswolds** — Bourton-on-the-Water; at least one village
+8. **Castle hotel stays** — Thornbury Castle (countryside dinner at minimum), Dalhousie Castle (Scotland)
+9. **Islay distilleries** — fly Glasgow → Islay; south coast circuit; overnight
+10. **Dinner with friends near Marlow** — Windsor stay, Day 2
 
 ---
 
-## Block 1 — Windsor (Days 1–2)
+## Block 1 — Windsor (Days 1–2, June 28–29)
 
 Arrive Heathrow → Windsor is 20 minutes by car or taxi. Perfect first stop.
 Windsor is relaxed, walkable, and a genuine decompression landing point after a transatlantic flight.
 
-**Day 1 — Arrive, recover**
-- Transfer Heathrow → Windsor
+**Day 1 (June 28) — Arrive, recover**
+- Transfer Heathrow → Windsor; pick up rental car
 - Easy Thames-side walk, pub dinner, early bed
 - The Long Walk (3-mile avenue from Windsor Castle to the park) is a gentle
   first-day stroll if energy allows
 
-**Day 2 — Windsor Castle + Marlow dinner**
-- Morning: Windsor Castle (State Rooms, St George's Chapel — one of England's
-  finest Gothic chapels, burial place of 10 monarchs including Henry VIII)
+**Day 2 (June 29) — Windsor Castle + Marlow dinner**
+- Morning: Windsor Castle (State Rooms, St George's Chapel — burial place of 10 monarchs
+  including Henry VIII; one of England's finest Gothic chapels). Book at rct.uk.
 - Afternoon: Eton College walk across the bridge — beautiful and free
-- Evening: Drive to Marlow (~10 miles along the Thames, 20 min) for dinner
-  with friends. Marlow is a lovely Thames-side town; dinner there is a pleasure
-  in itself, not an obligation
-
-**Logistics:** Pick up rental car at Heathrow on Day 1 (or pre-arranged Windsor hotel
-car service for Day 1, pick up car Day 2). Car is useful for Marlow dinner and
-countryside exploration, but can be dropped for the London block (park at hotel or
-Heathrow for the week, or use a drop-and-collect service).
+- Evening: Drive to Marlow (~10 miles along the Thames, 20 min) for dinner with friends
 
 ---
 
-## Block 2 — London (Days 3–7)
+## Block 2 — Southern England Countryside (Days 3–8, June 30–July 4)
 
-5 nights in an AirBnb. **South or west London recommended** (Battersea, Clapham,
-Putney, Fulham) — quieter than central, better value for a family apartment,
-well connected by Tube and Overground, and puts Richmond on your doorstep.
+### Base: Bradford-on-Avon, Wiltshire (VRBO, 5 nights)
 
-Train from Windsor → London Waterloo: 55 min via Windsor & Eton Riverside.
+A beautiful working market town on the River Avon, 8 miles from Bath. Quiet,
+stone-built, atmospheric — the right base for this block.
 
-### Must Sees
-- British Museum · Tower of London · Westminster Abbey
-- Shakespeare's Globe · Churchill's War Rooms · Harrods
-
-### Evenings
-- **The Mousetrap** — Agatha Christie's play (running since 1952), St Martin's
-  Theatre WC2H. Book at delfontmackintosh.co.uk. 2–3 months ahead for July.
-- **High Tea** — Mom + daughters (recommendation below)
-- **Pub Darts** — Dad + son (recommendation below)
-
----
-
-**Day 3 — Arrive London + Ted Lasso + The Mousetrap**
-
-*Afternoon:*
-- Train Windsor → London Waterloo, settle into AirBnb
-- Richmond upon Thames: Richmond Park (red and fallow deer, 2,500 acres),
-  Richmond Hill viewpoint (the Thames bend, only view in England protected
-  by Act of Parliament), The Prince's Head pub on Richmond Green
-  (the actual Crown & Anchor from Ted Lasso — functioning pub; walk in and have
-  a pint exactly where Ted and Beard sat)
-
-*Evening:*
-- **The Mousetrap**, St Martin's Theatre (~7:30pm curtain)
-- Richmond → Leicester Square: 35 min on District Line to Embankment, change
-  to Northern Line one stop, or walk from Charing Cross
-- Pre-theatre dinner near Covent Garden (strong GF options throughout the area;
-  ask for the GF menu — every Covent Garden restaurant handles it routinely)
-
----
-
-**Day 4 — Warner Bros. Studio Tour + Platform 9¾**
-
-*All day, all 5 together:*
-- Train London Euston → Watford Junction (~20 min), then studio shuttle bus
-- Warner Bros. Studio Tour, Leavesden — allow 4–5 hours minimum
-  (Great Hall, Diagon Alley, Forbidden Forest, Hogwarts model, original
-  costumes, Butterbeer in the backlot, interactive wand effects throughout)
-- On return: **Platform 9¾ at King's Cross** — trolley photo op with Gryffindor
-  scarf, HP shop. King's Cross is 2 Tube stops from Euston on the Victoria Line.
-- **Book WB tickets immediately** — July dates sell out months in advance
-
----
-
-**Day 5 — Westminster + Mayfair + High Tea / Darts split + Harrods**
-
-*Morning (all 5 together):*
-- **Churchill's War Rooms**, King Charles Street SW1 (opens 9:30am)
-  The underground bunker from which Churchill ran World War II; the Churchill
-  Museum is within. Allow 1.5–2 hours. Book at iwm.org.uk
-- **Westminster Abbey**, Parliament Square (5-min walk from War Rooms)
-  Coronation church of England's monarchs; Poets' Corner; medieval cloisters;
-  Tomb of the Unknown Warrior. Allow 2 hours. Book at westminster-abbey.org
-- Lunch: near St James's Park or Piccadilly en route to the afternoon split
-
-*Early afternoon — The family splits:*
-
-**Mom + Daughters → High Tea**
-- **Fortnum & Mason, The Diamond Jubilee Tea Salon**, 181 Piccadilly W1
-  - 10-min walk from Westminster through St James's Park
-  - Opened by the Queen in 2012; three floors of beautifully presented sandwiches,
-    warm scones with clotted cream and jam, pastries, and Fortnum's finest teas
-  - ~£75–85 per person. Allow 2 hours. Book months ahead for July at fortnumandmason.com
-  - GF: all dietary requirements accommodated — mention at booking
-  - Alternatives: **The Savoy** (Thames Foyer, very glamorous, ~£85pp) or
-    **Claridge's** (Art Deco Mayfair, ~£85–90pp) — both equally special, all require
-    advance booking for July
-
-**Dad + Son → Darts**
-- **Flight Club**, Nova, Victoria SW1E (15-min walk from Westminster)
-  - Social darts with electronic scoring, food, drinks, great energy — genuinely
-    fun regardless of skill level; perfect for a 14-year-old
-  - Under-18s permitted with an adult (typically until a 9pm cutoff — verify
-    current policy at booking). Book a 2-hour session at flightclubdarts.com
-  - For something more traditional: ask the AirBnb host for a nearby pub with
-    a proper board — a quieter, more classic experience is also valid
-
-*Late afternoon — Regroup at Harrods (all 5):*
-- **Harrods**, Brompton Road SW1 — 15-min walk from both venues via Knightsbridge
-- Allow 1–1.5 hours. Don't try to shop Harrods; experience it:
-  - The food halls (extraordinary; clear GF labeling; great for picking up snacks)
-  - The spirits department (exceptional single malt selection)
-  - The toy hall, ice cream parlour, the sheer spectacle of the building
-- Dinner near Knightsbridge or South Kensington, then Tube back to AirBnb
-
----
-
-**Day 6 — London: National Gallery + South Bank**
-
-A day without a single ticket or booking — one of the best London can offer.
-
-*Morning:*
-- **National Gallery**, Trafalgar Square WC2 (opens 10am; free entry)
-  Van Gogh's *Sunflowers*, Rembrandt self-portraits, Monet's water lilies, Turner's
-  seascapes, Caravaggio, Velázquez. The Sainsbury Wing covers the Early Renaissance.
-  Allow 2–2.5 hours. Café on site; GF options available.
-
-*Afternoon:*
-- Walk or Tube to the South Bank (Waterloo or Southwark)
-- **Tate Modern** — free entry; the Turbine Hall alone is worth the stop; outstanding
-  contemporary and modern art collection; the building (former Bankside Power Station)
-  is architecturally extraordinary. Allow 1–1.5 hours.
-- Cross the **Millennium Bridge** on foot — Thames views in both directions, St Paul's
-  behind you, the City skyline ahead
-- **Borough Market**, Stoney Street SE1 — one of London's great food markets; excellent
-  GF options at nearly every stall; ideal for a relaxed late lunch or early dinner
-
-*Evening:*
-- Walk the **South Bank riverside path** — street performers, Thames views, the
-  Golden Hinde and Clink Prison museum nearby if the kids want a quick stop
-- Dinner at Borough Market or a Waterloo/Southwark pub; calm evening before Day 7
-
----
-
-**Day 7 — East London: British Museum + Tower + Leadenhall + Globe**
-
-*Start early — this is the fullest day:*
-
-*Morning:*
-- **British Museum**, Great Russell St WC1 (opens 10am — arrive at opening)
-  Rosetta Stone, Elgin Marbles, Egyptian mummies, Lewis Chessmen, Sutton Hoo
-  helmet. The Great Court's glass roof is architecturally extraordinary. Allow 2.5–3 hrs.
-  Free entry. Café on site; GF options available, or grab lunch on Museum Street.
-
-*Midday:*
-- Tube: Holborn → Bank (Central Line, 3 stops, 8 min), then walk to the Tower
-
-*Afternoon:*
-- **Tower of London**, Tower Hill EC3 — allow 2.5–3 hours
-  - Go straight to the Crown Jewels first (queues build through the day)
-  - Yeoman Warder (Beefeater) tour: free with entry, leaves regularly, 45 min,
-    theatrical and very entertaining — don't skip it
-  - White Tower: medieval armour and arms collection
-  - Book timed entry in advance at hrp.org.uk — July is peak
-- **Tower Bridge walk** — iconic view, free, 15 min
-- **Leadenhall Market** — 10-min walk through the City from Tower Hill
-  (the Bull's Head Passage entrance was the Leaky Cauldron in HP film 1)
-
-*Evening:*
-- Walk or short bus along the South Bank to the Globe (~25 min walk via
-  London Bridge, or Tube to Southwark/London Bridge)
-- **Shakespeare's Globe Theatre**, Bankside SE1
-  - **Option A — Evening performance** (~7:30pm): check shakespearesglobe.com for
-    the July 2026 programme. Groundling (standing yard) tickets are £5 — an
-    extraordinary experience under the open July sky. Covered gallery seats £25–45.
-    Book 4–8 weeks ahead.
-  - **Option B — Daytime tour** (if a long day is too much): excellent guided tours
-    run throughout the day; ~1.5 hours; good for the backstage experience
-- **Borough Market** (5-min walk from Globe) — outstanding GF dinner options;
-  one of London's best food markets for an informal early evening meal
-
----
-
-### London Booking Checklist
-
-| What | Book at | How far ahead |
+| Destination          | Distance from base | Drive time |
 |---|---|---|
-| Warner Bros. Studio Tour | wbstudiotour.co.uk | Immediately |
-| The Mousetrap | delfontmackintosh.co.uk | 2–3 months |
-| Fortnum & Mason High Tea | fortnumandmason.com | 2–3 months for July |
-| Flight Club Darts | flightclubdarts.com | 4–6 weeks |
-| Churchill's War Rooms | iwm.org.uk | 2–4 weeks |
-| Westminster Abbey | westminster-abbey.org | 2–4 weeks |
-| Tower of London | hrp.org.uk | 2–4 weeks |
-| Shakespeare's Globe | shakespearesglobe.com | 4–8 weeks |
-
-### AirBnb Area Recommendation
-
-Look for a 3-bedroom family apartment in **Battersea, Clapham, or Putney**:
-- 15–20 min to central London by Tube or Overground
-- Quieter and more residential than the tourist core
-- Good local restaurants, parks, and a proper neighbourhood feel
-- Better value per square foot than central London
-- Positioned well for the Richmond Day 3 (District Line, end of line)
+| Bath                 | 8–15 miles         | 20–25 min  |
+| Avebury              | 18–22 miles        | 30 min     |
+| Stonehenge           | 22–28 miles        | 35–40 min  |
+| Lacock village       | 3–10 miles         | 10–15 min  |
+| Wells                | 30–35 miles        | 45 min     |
+| Glastonbury          | 35–40 miles        | 50 min     |
+| Bourton-on-the-Water | 30–35 miles        | 45 min     |
+| Thornbury Castle     | 22–28 miles        | 35 min     |
 
 ---
 
-## Block 3 — Southern England Countryside (Days 8–13)
+**Day 3 (June 30) — Warner Bros. Studio Tour + Arrive Bradford**
 
-### Base Recommendation: Near Lacock or Bradford-on-Avon, Wiltshire
+Warner Bros. Studio Tour is in Leavesden, near Watford — only 30 minutes from Windsor.
+Rather than using a London day for this, do it on the transition drive from Windsor to Bradford.
 
-This is the sweet spot for everything on the list. A Wiltshire countryside
-AirBnb cottage places you within comfortable day-trip range of all targets:
+- Morning: Check out Windsor hotel; drive to Leavesden (~30 min via M25/M1)
+- All day: Warner Bros. Studio Tour — Great Hall, Diagon Alley sets, Hogwarts model,
+  Butterbeer in the backlot. Allow 4–5 hours minimum.
+- Late afternoon: Drive M4 west to Bradford-on-Avon (~1.5 hours)
+- Evening: Check in; grocery run (M&S or Waitrose for GF stock); quiet first night
 
-| Destination       | Distance from base | Drive time |
-|---|---|---|
-| Bath              | 8–15 miles         | 20–25 min  |
-| Avebury           | 18–22 miles        | 30 min     |
-| Stonehenge        | 22–28 miles        | 35–40 min  |
-| Lacock Abbey (HP) | 3–10 miles         | 10–15 min  |
-| Wells             | 30–35 miles        | 45 min     |
-| Glastonbury       | 35–40 miles        | 50 min     |
-| Cirencester       | 20–25 miles        | 30 min     |
-| Bourton-on-the-Water | 30–35 miles     | 45 min     |
-| Gloucester        | 28–35 miles        | 40–50 min  |
-| Thornbury Castle  | 22–28 miles        | 35 min     |
-
-**Lacock village** itself is worth mentioning: entirely National Trust-owned,
-almost no modern signage, used extensively as a filming location (Harry Potter,
-Downton Abbey, Pride & Prejudice). Staying near here means you can walk the
-village in the evening when the day-trippers are gone.
-
-**Bradford-on-Avon** is a beautiful working market town on the River Avon,
-8 miles from Bath, quieter than Bath but with the same stone architecture.
-A lovely base in its own right.
-
-**Castle stay:** Recommend 2 nights at **Thornbury Castle** (Tudor, 1511 —
-only Tudor castle operating as a hotel in England; Henry VIII and Anne Boleyn
-stayed here) at the end of this block. Position it as the final 2 nights before
-departing for Scotland, so you leave the countryside feeling like royalty.
+**Book immediately** — July dates sell out months in advance; wbstudiotour.co.uk
 
 ---
 
-**Day 8 — Drive to base via Avebury**
-- Pick up car from London (or Heathrow)
-- En route stop: **Avebury** — more atmospheric than Stonehenge in some ways;
-  the stones are larger, you walk freely among them, the village is inside the
-  circle. Also visit: Silbury Hill (largest prehistoric man-made mound in Europe,
-  roadside) and West Kennet Long Barrow (5,000-year-old burial chamber, 5-min walk)
-- Check into cottage base. Quiet evening.
+**Day 4 (July 1) — Avebury + Prehistoric Landscape**
 
-**Day 9 — Stonehenge + Salisbury + Lacock Village**
-- Morning: **Stonehenge** (timed entry, book well ahead for July; inner circle if secured)
-- 15 min drive: **Salisbury Cathedral** — one of England's finest medieval cathedrals;
-  holds one of four surviving original Magna Carta documents; England's tallest spire.
-  Allow 1–1.5 hours.
+A gentle first full countryside day. Avebury is only 30 min from Bradford.
+
+- **Avebury Stone Circle** — Europe's largest prehistoric stone circle; the village is
+  built inside it. Walk freely among the stones (no barriers, no timed entry).
+  National Trust; free. More atmospheric than Stonehenge for many visitors.
+- **Silbury Hill** — 5-min drive; roadside viewpoint. Largest prehistoric man-made mound
+  in Europe (~2,400 BC).
+- **West Kennet Long Barrow** — 5-min drive + 10-min walk. 5,500-year-old burial chamber
+  you can walk inside.
+- Lunch at The Red Lion, Avebury — the only pub in the world inside a stone circle
+- Afternoon: Return to Bradford; quiet village wander; calm evening in
+
+---
+
+**Day 5 (July 2) — Stonehenge + Salisbury + Lacock Village**
+
+- Morning: **Stonehenge** (timed entry; book at english-heritage.org.uk)
+  Inner Circle option (~£50–55/person; very limited; book with flights)
+- Midday: **Salisbury Cathedral** — England's tallest spire; one of four surviving 1215 Magna Cartas
 - Afternoon: **Lacock village** — entirely National Trust-owned; almost no modern signage;
-  historically complete (also used in Downton Abbey and Pride & Prejudice). Free to walk.
-  Arrive in the late afternoon after the coach tours have left — the village is at its
-  best quiet.
+  arrive late afternoon when coach tours have gone
 
-**Day 10 — Bath**
-- Full day in Bath — it earns it
-- Roman Baths (allow 2 hours; extraordinary preservation)
-- Pump Room for morning tea or lunch (GF-friendly)
+---
+
+**Day 6 (July 3) — Bath**
+
+Full day. It earns it.
+
+- Roman Baths (allow 2 hours; timed entry at romanbaths.co.uk)
+- Pump Room (adjacent; morning coffee or lunch in Georgian splendour; GF-friendly)
 - Royal Crescent and The Circus (Georgian architecture at its finest; free to walk)
 - Pulteney Bridge and Parade Gardens
-- Sally Lunn's (oldest house in Bath, ~1482) — GF note: the famous buns are not GF,
-  but the kitchen accommodates on request; or excellent restaurant choices nearby
-- Evening: return to cottage base for a calm dinner in
-
-**Day 11 — Wells + Glastonbury**
-- Wells Cathedral (6 miles before Glastonbury) — England's smallest city has its
-  most beautiful cathedral close. The scissor arches inside are stunning.
-  Allow 1.5 hours. Vicars' Close is the oldest complete medieval street in Europe.
-- Glastonbury Tor: 20-minute climb up the conical hill; ruined St Michael's Tower
-  at the summit; views across the Somerset Levels are extraordinary
-- Glastonbury Abbey ruins below the Tor: Arthurian legend, supposed burial of
-  King Arthur and Guinevere; haunting and romantic ruins
-- The town itself is alternative and colourful — Glastonbury High Street is an
-  experience; good lunch options
-- Back to base for a calm evening
-
-**Day 12 — Cotswolds + Thornbury Castle**
-
-A lighter day — one village, one castle. After the intensity of the week this is the
-right pace before departing for Scotland.
-
-- Morning: One of two good Cotswolds options (both ~20 min from Bourton):
-  - **Chipping Campden** — one of the finest Cotswolds market towns; the old Market
-    Hall, St James's Church, and a beautiful long High Street. Less visited than
-    Bourton; more authentically lived-in.
-  - **Broadway** — wide High Street lined with honey-stone buildings; Broadway Tower
-    (a Gothick folly on the Cotswolds escarpment, ~30-min walk) offers panoramic views
-    across 16 counties on a clear day
-- Midday/Afternoon: **Bourton-on-the-Water** — the River Windrush runs through the
-  village centre with a series of low stone footbridges; busy in summer but the
-  river setting is genuinely lovely
-- Evening: Check into **Thornbury Castle** — England's only Tudor castle hotel (1511;
-  Henry VIII and Anne Boleyn stayed here). Dinner in the Tudor dining room. This is
-  the treat evening of the trip — dress for it.
-
-**Day 13 — Thornbury Castle + depart for Scotland**
-- Leisurely morning at Thornbury — walled kitchen garden, vineyard walk, castle grounds
-- After checkout, drive to Bristol or London depending on Scotland transit choice
-  (see below)
+- Dinner in Bath — strong GF options throughout. Return to Bradford (20–25 min).
 
 ---
 
-## Getting to Scotland
+**Day 7 (July 4) — Wells + Glastonbury**
 
-**Recommendation: Train, London King's Cross → Edinburgh Waverley**
+The last full countryside day. Quiet and beautiful.
 
-| Option | Journey | Notes |
-|---|---|---|
-| LNER train, King's Cross → Edinburgh | 4.5 hours | Scenic, comfortable, no airport faff. Book 16+ weeks out for advance fares (~£40–60pp). Family of 5 advance: ~£200–300 return. |
-| Fly London (LHR/LGW/LCY) → Edinburgh | 1.5 hours + airport time | Net ~3.5 hours door-to-door. More expensive for 5. Useful if departing from near Heathrow. |
-| Fly Bristol → Edinburgh | 1.5 hours | Convenient if ending countryside block near Thornbury. Bristol Airport is 20 min from Thornbury Castle. |
+- **Wells Cathedral** — England's smallest city; extraordinary scissor arches.
+  Vicars' Close (oldest complete medieval street in Europe) attached. Allow 1.5 hours.
+- **Glastonbury Tor** — 20-min climb; ruined St Michael's Tower at the summit;
+  views across the Somerset Levels extraordinary on a clear July day. Free.
+- **Glastonbury Abbey ruins** — Arthurian legend; supposed burial of King Arthur.
+- **Glastonbury High Street** — alternative, colourful, great for lunch
+- Return to Bradford for a calm last countryside evening
 
-If taking the train: Return car to Heathrow or London on Day 13, overnight near
-King's Cross, train to Edinburgh Day 14 morning.
+**Thornbury Castle dinner option:** Thornbury is 35 min from Bradford. If they can
+accommodate your group for dinner (even without a stay), the Tudor dining room is worth
+booking. thornburycastle.co.uk
 
-If flying from Bristol: Return car at Bristol Airport, fly direct to Edinburgh.
-Pick up a separate Scotland-only rental car in Edinburgh.
-
-**The train is the Rick Steves choice.** It's relaxed, scenic (the stretch through
-Northumberland and along the coast is beautiful), no security queues, and you arrive
-in the heart of Edinburgh. Book well ahead.
-
----
-
-## Block 4 — Scotland (Days 14–19)
-
-**Accommodation:** Dalhousie Castle (Days 14–15) · Fort William hotel (Day 16) ·
-Glasgow hotel (Day 17) · Islay (Day 18) · fly home Day 19
+**Bourton-on-the-Water alternative:** If the family prefers a lighter last day,
+Bourton (45 min north) makes a lovely afternoon — River Windrush, stone footbridges,
+quintessential Cotswolds.
 
 ---
 
-**Day 14 — Edinburgh: Castle + Royal Mile + Dalhousie Castle**
+**Day 8 (July 5) — Train to Scotland**
 
-*Morning:*
-- **Edinburgh Castle** — Crown Jewels of Scotland, Stone of Destiny, One o'Clock Gun.
+Check out Bradford VRBO. Drop Rental 1 at Bath (Enterprise/Hertz have Bath locations).
+
+Train route:
+- **Bath Spa → London Paddington** (GWR, ~1 hr 20 min; very frequent)
+- Cross London to King's Cross: Tube Circle Line (~30 min) or taxi (~20 min)
+- **King's Cross → Edinburgh Waverley** (LNER, 4.5 hours; scenic through Northumberland)
+- Pick up Rental 2 at Edinburgh Airport or city centre on arrival
+- Drive to Dalhousie Castle (~9 miles south of Edinburgh). Dinner in the dungeon restaurant.
+
+**Book LNER tickets 16+ weeks ahead** for best advance fares (~£40–60/person); lner.co.uk
+Book GWR Bath → London separately: gwr.com
+
+---
+
+## Block 3 — Scotland (Days 9–14, July 6–11)
+
+**Accommodation:** Dalhousie Castle (Days 9–10) · Fort William hotel (Day 11) ·
+Glasgow hotel (Day 12) · Islay (Day 13) · Glasgow bridge night (Day 14)
+
+---
+
+**Day 9 (July 6) — Edinburgh: Castle + Royal Mile + Dalhousie Castle**
+
+- Morning: **Edinburgh Castle** — Crown Jewels of Scotland, Stone of Destiny, One o'Clock Gun.
   Book timed entry at edinburghcastle.scot. Allow 2.5 hours.
+- Afternoon: **The Royal Mile** — walk the spine of the Old Town; closes and wynds reveal
+  medieval Edinburgh. **Victoria Street** — the curved, colourful street off the Grassmarket.
+- Evening: Drive south to Dalhousie Castle (~9 miles). Dinner in the dungeon restaurant.
+
+---
+
+**Day 10 (July 7) — Edinburgh: Falconry + Holyroodhouse + Arthur's Seat**
+
+- Morning: **Dalhousie Castle falconry session** (book at dalhousiecastle.co.uk)
+- **Palace of Holyroodhouse** — monarch's official Scottish residence; Mary Queen of Scots lived here.
+- Afternoon: **Arthur's Seat** — extinct volcano in Holyrood Park; 45-min hike to summit;
+  panoramic views. Moderate difficulty; fine for all.
+- Evening: Dinner in the Grassmarket or Canongate. Scotland light until 10:30pm in July.
+
+---
+
+**Day 11 (July 8) — Highlands Transit: Stirling → Loch Lomond → Glencoe → Fort William**
+
+- Morning: **Stirling Castle** — Scotland's most important royal castle; Mary Queen of Scots
+  crowned here aged 9 months. Allow 1.5–2 hours.
+- Afternoon: **Loch Lomond** (east shore, A82; stop at Luss village)
+  **Glencoe** — Three Sisters viewpoint; one of the great landscape views in Britain.
+- Evening: Arrive Fort William. The Crannog (fresh seafood on Loch Linnhe) if bookable.
+
+---
+
+**Day 12 (July 9) — Fort William → Glasgow**
+
+- Morning: Leisurely Fort William departure
+- Drive south via A82 through Rannoch Moor and along Loch Lomond (~2.5 hours; beautiful road)
+- Afternoon: **Kelvingrove Art Gallery & Museum** (Dalí's Christ of Saint John of the Cross; free);
+  **Glasgow Cathedral** (only Scottish mainland cathedral to survive the Reformation; free);
+  **The Necropolis** (Victorian hillside cemetery; great city views)
+- Evening: Dinner in the Merchant City or West End. Overnight in Glasgow.
+
+---
+
+**Day 13 (July 10) — Islay**
+
+- Morning: **Fly Glasgow → Islay** (Loganair, ~45 min; loganair.co.uk — book both directions immediately)
+  Check into accommodation in Port Ellen or Bowmore.
+- Afternoon — South Coast Distillery Circuit (all within 3 miles of Port Ellen):
+  - **Ardbeg** (intensely peaty; Old Kiln Café is the best lunch on the island; ardbeg.com)
+  - **Lagavulin** (classic Islay malt; beautiful waterfront; discovering.lagavulin.com)
+  - **Laphroaig** (Royal Warrant; peat bog tours; laphroaig.com)
+- Evening: Bowmore village; dinner at The Harbour Inn, Bowmore.
+  Long, quiet July evening on the island.
+
+Note: Distilled whisky is generally safe for celiacs — confirm with each distillery.
+
+---
+
+**Day 14 (July 11) — Islay → Glasgow Bridge Night**
+
+- Morning: Optional **Kilchoman Distillery** (farm distillery; ~20 min from Bowmore; very intimate)
+- Fly Islay → Glasgow (Loganair morning flight)
+- Return Rental 2 at Glasgow Airport
+- Overnight near Glasgow Airport (Premier Inn or similar — simple bridge night)
+
+---
+
+## Getting to London (Day 15, July 12)
+
+Morning train or flight Glasgow → London.
+
+- **Train (recommended):** Glasgow Central → London Euston, Avanti West Coast (~4.5 hrs).
+  Book well ahead at avantitrain.com
+- **Fly:** Glasgow (GLA) → London (LHR/LCY/STN) (~1.5 hr; budget carrier option)
+
+Check into London VRBO (July 12–16). London by tube and train; no car needed.
+
+---
+
+## Block 4 — London (Days 15–19, July 12–16)
+
+5 nights in a VRBO. South or west London recommended (Battersea, Clapham, Putney, Fulham) —
+quieter than central, better value, well connected by Tube and Overground, puts Richmond
+on your doorstep.
+
+The WB Studio Tour was done on Day 3 (en route Windsor → Bradford), so London has
+5 full days free for everything else.
+
+---
+
+**Day 15 (July 12) — Arrive London + Settle**
+
+- Morning: Travel from Glasgow (train or flight)
+- Afternoon: Check in; light walk around the VRBO neighbourhood
+- Evening: Quiet local dinner; early bed
+
+---
+
+**Day 16 (July 13) — Richmond + Ted Lasso + The Mousetrap**
 
 *Afternoon:*
-- **The Royal Mile** — walk the spine of the Old Town from castle to palace; closes,
-  wynds, and alleys branch off revealing medieval Edinburgh beneath the surface
+- Richmond Park (2,500 acres; free-roaming red and fallow deer)
+- Richmond Hill viewpoint (the only view in England protected by Act of Parliament)
+- The Prince's Head pub, Richmond Green (the actual Crown & Anchor from Ted Lasso —
+  walk in and have a pint exactly where Ted and Beard sat)
 
 *Evening:*
-- Drive south to **Dalhousie Castle** (~9 miles, 20 min). Dinner in the dungeon
-  restaurant. 13th-century Scottish castle; falconry school on site.
+- The Mousetrap, St Martin's Theatre (~7:30pm curtain). Agatha Christie; running since 1952.
+  Book at delfontmackintosh.co.uk — 2–3 months ahead for July.
+- Pre-theatre dinner near Covent Garden
 
 ---
 
-**Day 15 — Edinburgh: Falconry + Holyroodhouse + Arthur's Seat**
+**Day 17 (July 14) — Westminster + High Tea / Darts + Harrods**
 
-*Morning:*
-- **Dalhousie Castle falconry session** (book in advance at dalhousiecastle.co.uk)
-- **Palace of Holyroodhouse** — monarch's official Scottish residence; Mary Queen of
-  Scots lived here; Bonnie Prince Charlie held court here. Audio guide through
-  spectacular state rooms. Book at rct.uk.
+*Morning (all 5 together):*
+- Churchill's War Rooms, King Charles Street SW1 (opens 9:30am). Allow 1.5–2 hours. iwm.org.uk
+- Westminster Abbey, Parliament Square — Coronation church; Poets' Corner; Tomb of the
+  Unknown Warrior. Allow 2 hours. westminster-abbey.org
+- Lunch near St James's Park
 
-*Afternoon:*
-- **Arthur's Seat** — extinct volcano in Holyrood Park, right behind the Palace.
-  45-min hike to the summit; panoramic views across Edinburgh, the Firth of Forth,
-  and the Highland mountains on a clear July day. Moderate difficulty, fine for all.
+*Afternoon — The family splits:*
+- **Mom + Daughters → Fortnum & Mason**, The Diamond Jubilee Tea Salon, 181 Piccadilly W1.
+  ~£75–85/person. Allow 2 hours. Mention GF at booking. fortnumandmason.com
+- **Dad + Son → Flight Club Darts**, Nova, Victoria SW1E. Social darts with electronic scoring.
+  Under-18s permitted with adult (verify policy). flightclubdarts.com.
 
-*Evening:*
-- Dinner in the **Grassmarket** or **Canongate** area of Edinburgh Old Town.
-  Scotland stays light until ~10:30pm in July — a long, lovely evening.
-
----
-
-**Day 16 — Highlands Transit: Stirling → Loch Lomond → Glencoe → Fort William**
-
-*Morning:*
-- **Stirling Castle** — Scotland's most important royal castle; Mary Queen of Scots
-  crowned here aged 9 months. Allow 1.5–2 hours. Book at historicenvironment.scot
-
-*Afternoon:*
-- **Loch Lomond** — drive along the east shore on the A82; stop at Luss village
-  (a beautiful lochside village; photogenic and worth 30 minutes)
-- **Glencoe** — Three Sisters viewpoint; one of the great landscape views in Britain.
-  Site of the 1692 Glencoe Massacre. Dramatic on any weather.
-
-*Evening:*
-- Arrive **Fort William**. Dinner at The Crannog, if bookable — fresh seafood on
-  Loch Linnhe; the best restaurant in town.
+*Late afternoon — Regroup at Harrods:*
+- Harrods, Brompton Road SW1 — food halls (excellent GF), spirits department (outstanding
+  single malt selection), toy hall. Experience it, don't shop it.
 
 ---
 
-**Day 17 — Fort William → Glasgow**
+**Day 18 (July 15) — British Museum + Tower + Leadenhall + Globe**
 
-A transition day that earns its keep. Glasgow is a genuinely great city, usually
-skipped in favour of Edinburgh but equally rewarding in its own way — and a natural
-staging point for the Islay flight tomorrow morning.
-
-*Morning:*
-- Leisurely Fort William departure
-- Drive Fort William → Glasgow (~2.5 hours via A82 south through Rannoch Moor and
-  Loch Lomond; the road is beautiful)
-
-*Afternoon:*
-- **Kelvingrove Art Gallery & Museum** — free entry; one of Scotland's greatest
-  museums in a stunning Victorian red-sandstone building. Dalí's *Christ of Saint John
-  of the Cross* is here. Allow 1.5–2 hours.
-- **Glasgow Cathedral** — the only Scottish mainland cathedral to survive the
-  Reformation intact; impressive medieval Gothic interior; free entry
-- **The Necropolis** — Victorian hillside cemetery behind the Cathedral; atmospheric,
-  great views over the city
-
-*Evening:*
-- Dinner in the **Merchant City** or the **West End** — Glasgow has excellent
-  restaurants, a strong GF scene, and genuine warmth. A great last city evening.
-- Overnight in Glasgow, central (near airport for morning Islay flight)
+- Morning: **British Museum** — Rosetta Stone, Elgin Marbles, Egyptian mummies, Sutton Hoo
+  helmet. Free entry. Arrive at opening (10am). Allow 2.5–3 hours.
+- Afternoon: **Tower of London** — Crown Jewels first, then Beefeater tour (free with entry),
+  White Tower armour. Book timed entry at hrp.org.uk. Allow 2.5–3 hours.
+  **Tower Bridge** walk (free, 10 min)
+  **Leadenhall Market** — Victorian iron-and-glass covered market; 10-min walk
+- Evening: **Shakespeare's Globe Theatre**, Bankside — evening performance (~7:30pm).
+  Groundling yard tickets £5; gallery seats £25–45. shakespearesglobe.com
+  **Borough Market** (5 min from Globe) — outstanding GF dinner options
 
 ---
 
-**Day 18 — Islay**
+**Day 19 (July 16) — Last London Day**
 
-*Morning:*
-- **Fly Glasgow → Islay** (Loganair, ~45 min; check schedules at loganair.co.uk).
-  Book well ahead — July flights fill. Return flight booked for Day 19 morning.
-- Check into accommodation in **Port Ellen** or **Bowmore**
-- Lunch at **Ardbeg's Old Kiln Café** — one of the best lunch stops on the island
+The day before flying home. Keep it light and enjoyable.
 
-*Afternoon — South Coast Distillery Circuit:*
-All three are within 3 miles of Port Ellen — one of the great whisky walks in the world:
-- **Ardbeg** — intensely peaty, award-winning; book a tour at ardbeg.com
-- **Lagavulin** — the classic Islay malt; beautiful waterfront setting; book at
-  discovering.lagavulin.com
-- **Laphroaig** — Royal Warrant holder; the most famous Islay name; book at
-  laphroaig.com. Some tours include a walk on the peat bogs.
-
-*Evening:*
-- **Bowmore** village — oldest distillery on Islay (1779); an evening tour or just
-  the village itself. The Harbour Inn, Bowmore is the best dinner on the island.
-- Overnight on Islay. July evenings here are long, beautiful, and very quiet.
-
-**Note:** Distilled whisky is generally safe for celiacs — confirm with each
-distillery. Book all tours in advance; July is Islay's busiest season.
+- **National Gallery**, Trafalgar Square (free — Van Gogh, Rembrandt, Turner, Monet)
+- **South Bank walk** — Tate Modern, Millennium Bridge, Borough Market
+- Quiet last dinner in London
 
 ---
 
-**Day 19 — Islay → Glasgow → Fly Home**
+**July 17 — Fly Home**
 
-*Morning:*
-- Optional: one more distillery before the flight — **Kilchoman** (farm distillery,
-  very personal experience, 20 min from Bowmore) if time allows
-- **Fly Islay → Glasgow** (Loganair morning flight; verify times at booking)
-- Arrive Glasgow by mid-morning; connect to international terminal
-
-*Departure:*
-- **Fly Glasgow (GLA) → Seattle (SEA)** — typical routing via Amsterdam (KLM/Delta)
-  or Dublin (Aer Lingus). Glasgow does have transatlantic service; verify routing
-  when booking flights.
-- Long travel day — Islay whisky in the morning, home by night.
+Check out VRBO. Transfer to Heathrow. LHR → SEA.
 
 ---
 
 ## Logistics Notes
 
 **Car rental:**
-- Pick up at Heathrow on Day 1. Drive Windsor → (park during London week) → pick
-  up again Day 8 for countryside block. Return at Heathrow or Bristol Day 13/14.
-- Alternatively: no car Days 1–7 (Windsor and London both work without one);
-  pick up at Heathrow Day 8 for countryside only.
-- Scotland: separate rental from Edinburgh if flying; same car if driving north.
+- Rental 1: Pick up Heathrow June 28. Drive Windsor → Leavesden (WB Tour June 30) →
+  Bradford-on-Avon. Drop off Bath Spa area July 5.
+- Rental 2: Pick up Edinburgh July 5. Drive Scotland block.
+  Drop off Glasgow Airport July 11.
+- London: No car needed. Oyster card or contactless bank card for all Tube and bus travel.
 
 **London Tube:**
 - Oyster card or contactless bank card — tap in and out, daily fare cap applies.
-  No need to buy tickets or top up; any UK or international contactless card works.
+  No need to buy tickets or top up.
 
 **Gluten free:**
 - M&S Food halls: best GF ready-made range in Britain. Stock up at any branch.
-- Bath, Oxford, London Borough Market, Glastonbury all have strong GF options.
-- Notify Thornbury Castle and any castle hotels at booking — they handle it well.
+- Bath, Borough Market, and Glastonbury all have strong GF options.
+- Notify castle hotels at booking — they handle it well.
+- Distilled whisky is generally celiac-safe; confirm with each distillery.
 
 ---
 
 ## What's No Longer on This Trip
 
-| Dropped                  | Why                                              | Future trip? |
+| Dropped               | Why                                            | Future trip? |
 |---|---|---|
-| Lydiate                  | Liverpool area cut from this structure           | Yes — deserves its own visit |
-| Alnwick Castle           | Northeast England cut                            | Yes — great castle experience |
-| Durham Cathedral         | Northeast England cut                            | Yes — fan-vaulted cloisters  |
-| York/Shambles            | Northeast England cut                            | Yes — medieval walled city   |
-| Wales                    | Focus narrowed to south                          | Yes — Ruthin/Snowdonia worth it |
-| Lake District            | Focus narrowed to south                          | Yes — needs 3+ days to do right |
-| Jacobite Steam Train     | Scotland days prioritised for Islay              | Yes — a future Scotland trip |
-| Gloucester Cathedral     | Day 12 lightened; Thornbury the priority         | Yes — genuinely beautiful    |
-| Bibury / Burford         | Day 12 lightened; one village enough             | Yes — easy add on a return   |
-| Lacock Abbey interior    | Village walk kept; abbey skipped                 | Yes — NT membership covers it |
-| Bedfordshire friend visit| Removed from trip; can visit independently       | Coordinate separately        |
+| Lydiate / Liverpool   | Route no longer passes through Northwest England | Yes — deserves its own visit |
+| Alnwick Castle        | Northeast England not on route                 | Yes — great castle + HP |
+| Durham Cathedral      | Northeast England not on route                 | Yes — fan-vaulted cloisters |
+| York / The Shambles   | Northeast England not on route                 | Yes — medieval walled city |
+| Wales                 | Focus narrowed to south + Scotland             | Yes — Ruthin/Snowdonia worth it |
+| Lake District         | Focus narrowed to south + Scotland             | Yes — needs 3+ days |
+| Jacobite Steam Train  | Scotland days prioritised for Islay            | Yes — future Scotland trip |
+| Gloucester Cathedral  | Countryside days fully committed               | Yes — genuinely beautiful |
+| Bibury / Burford      | Countryside compressed to best options         | Yes — easy add on a return |
+| Lacock Abbey interior | Village walk kept; abbey interior skipped      | Yes — NT membership covers it |
 
 ---
 
 ## Booking Priority Order
 
-1. **Warner Bros. Studio Tour** — book immediately (July sellout); wbstudiotour.co.uk
-2. **Stonehenge timed entry** — especially inner circle (~£50–55/person); english-heritage.org.uk
-3. **Thornbury Castle** — July is peak; limited rooms; book 6–9 months out; thornburycastle.co.uk
-4. **Dalhousie Castle** — same lead time; dalhousiecastle.co.uk
-5. **Loganair Glasgow → Islay flights** (both directions) — book as soon as dates confirmed; loganair.co.uk
-6. **Islay distillery tours** — Ardbeg, Lagavulin, Laphroaig; book directly with each distillery
-7. **LNER train King's Cross → Edinburgh** — book 16+ weeks ahead for best fares; lner.co.uk
-8. **Fortnum & Mason High Tea** — 2–3 months ahead for July; fortnumandmason.com
-9. **The Mousetrap** — 2–3 months ahead for July; delfontmackintosh.co.uk
-10. **Tower of London / Westminster Abbey / Edinburgh Castle / Roman Baths** — 2–4 weeks ahead
+1. **Warner Bros. Studio Tour** (June 30) — book immediately; wbstudiotour.co.uk
+2. **Loganair Glasgow ↔ Islay** (both directions, July 10–11) — book as soon as dates confirmed; loganair.co.uk
+3. **Stonehenge inner circle** (~£50–55/person) — very limited; book with flights; english-heritage.org.uk
+4. **Dalhousie Castle** (July 6–7) — 6–9 months out for July; dalhousiecastle.co.uk
+5. **Thornbury Castle** (dinner or overnight, July 4) — call to check availability; thornburycastle.co.uk
+6. **Islay distillery tours** — Ardbeg, Lagavulin, Laphroaig; book directly with each
+7. **Train tickets** — GWR Bath→London + LNER King's Cross→Edinburgh (July 5) + Avanti Glasgow→London (July 12); book 16+ weeks ahead; lner.co.uk · gwr.com · avantitrain.com
+8. **Fortnum & Mason High Tea** — 2–3 months ahead; fortnumandmason.com
+9. **The Mousetrap** — 2–3 months ahead; delfontmackintosh.co.uk
+10. **Tower of London · Westminster Abbey · Edinburgh Castle · Roman Baths** — 2–4 weeks ahead
