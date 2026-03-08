@@ -44,7 +44,8 @@ Arrive Heathrow → Windsor is 20 minutes by car or taxi. Perfect first stop.
 Windsor is relaxed, walkable, and a genuine decompression landing point after a transatlantic flight.
 
 **Day 1 (June 28) — Arrive, recover**
-- Transfer Heathrow → Windsor; pick up rental car
+- Pick up rental car at Heathrow; drive to Windsor (~20 min)
+- Check into Airbnb (June 28–29, booked) — walkable to Windsor Castle
 - Easy Thames-side walk, pub dinner, early bed
 - The Long Walk (3-mile avenue from Windsor Castle to the park) is a gentle
   first-day stroll if energy allows
@@ -393,6 +394,7 @@ Check out VRBO. Transfer to Heathrow. LHR → SEA.
 2. **Bradford-on-Avon VRBO** (June 30–July 5) — ✓ BOOKED
 3. **London VRBO** (July 12–17) — ✓ BOOKED
 4. **York home** (July 5–12) — ✓ BOOKED
+5. **Windsor Airbnb** (June 28–29) — ✓ BOOKED (walkable to Windsor Castle)
 5. **Swinton Estate falconry** (July 9) — book directly; swintonpark.com
 6. **North Yorkshire Moors Railway** (July 8, Pickering → Goathland) — book ahead for July; nymr.co.uk
 7. **Stonehenge inner circle** (~£50–55/person) — very limited; book with flights; english-heritage.org.uk
