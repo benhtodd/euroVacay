@@ -108,13 +108,18 @@ A gentle first full countryside day. Avebury is only 30 min from Bradford.
 
 ---
 
-**Day 5 (July 2) — Stonehenge + Salisbury + Lacock Village**
+**Day 5 (July 2) — Salisbury + Lacock + Stonehenge Sunset Inner Circle**
 
-- Morning: **Stonehenge** (timed entry; book at english-heritage.org.uk)
-  Inner Circle option (~£50–55/person; very limited; book with flights)
-- Midday: **Salisbury Cathedral** — England's tallest spire; one of four surviving 1215 Magna Cartas
+Skipping standard daytime Stonehenge entry — doing the sunset inner circle tour instead.
+Better experience, inside the stones, no crowds.
+
+- Morning: **Salisbury Cathedral** — England's tallest spire; one of four surviving 1215 Magna Cartas.
+  Allow 1–1.5 hours. (~8 miles from Stonehenge)
 - Afternoon: **Lacock village** — entirely National Trust-owned; almost no modern signage;
-  arrive late afternoon when coach tours have gone
+  arrive afternoon when coach tours have gone. Harry Potter filming location (Hogwarts corridors).
+- Evening (~7:00pm): **Stonehenge sunset inner circle tour** — walk freely among the stones;
+  no barriers, no crowds. Tour ~7:00–9:00pm; sunset ~9:15–9:30pm in early July.
+  (~£50–55/person; extremely limited). Book immediately: english-heritage.org.uk
 
 ---
 
