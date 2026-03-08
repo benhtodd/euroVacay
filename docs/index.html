@@ -222,6 +222,7 @@
     .block-header.london   { background: linear-gradient(135deg, #b01833, #e03050); }
     .block-header.cotswolds{ background: linear-gradient(135deg, #246840, #3a9a60); }
     .block-header.scotland { background: linear-gradient(135deg, #5a3f96, #8a6fd0); }
+    .block-header.north    { background: linear-gradient(135deg, #1a7a8a, #2aabb0); }
     .block-icon { font-size: 2rem; flex-shrink: 0; }
     .block-header h3 { font-size: 1.05rem; font-weight: bold; margin-bottom: 0.15rem; }
     .block-header p  { font-size: 0.8rem; opacity: 0.82; margin: 0; font-style: italic; }
@@ -417,9 +418,9 @@
     <ul class="checklist">
       <li><span class="ci">📅</span><div><strong>When:</strong> June 28–July 17, 2026 · 20 days · Fly in June 28; fly home July 17</div></li>
       <li><span class="ci">☀️</span><div><strong>Summer notes:</strong> Peak season — long daylight (Scotland stays light until ~10:30pm). Book everything well in advance. Scotland midges are active in July evenings; bring insect repellent for outdoor evenings.</div></li>
-      <li><span class="ci">✈️</span><div><strong>Airports:</strong> SEA → LHR (arrive June 28) · LHR → SEA (depart July 17) · Internal: Glasgow ↔ Islay (Loganair); Glasgow → London (Avanti train)</div></li>
+      <li><span class="ci">✈️</span><div><strong>Airports:</strong> SEA → LHR (arrive June 28) · LHR → SEA (depart July 17)</div></li>
       <li><span class="ci">🚗</span><div><strong>Transport:</strong> 7-seat rental MPV for countryside &amp; Scotland; Tube &amp; trains in London. Two rentals: pick up Heathrow June 28, drop Bath Spa July 5; pick up Edinburgh July 5, drop Glasgow Airport July 11.</div></li>
-      <li><span class="ci">🌍</span><div><strong>Route shape:</strong> Heathrow → Windsor (2 nights) → WB Studio Tour → Bradford-on-Avon (5 nights) → train to Edinburgh → Dalhousie Castle → Highlands → Glasgow → Islay → train to London (5 nights) → fly home LHR</div></li>
+      <li><span class="ci">🌍</span><div><strong>Route shape:</strong> Heathrow → Windsor (2 nights) → WB Studio Tour → Bradford-on-Avon (5 nights) → drive north → York (7 nights) → LNER to London (5 nights) → fly home LHR</div></li>
       <li><span class="ci">🏰</span><div><strong>Accommodation:</strong> Castle hotels at key stops; comfortable inns elsewhere. Calm evenings are non-negotiable.</div></li>
       <li><span class="ci">🍞</span><div><strong>Gluten free:</strong> UK law requires allergen disclosure. M&amp;S, Tesco, Waitrose supermarkets have excellent GF ranges. Notify castle hotels 48 hrs ahead.</div></li>
     </ul>
@@ -434,7 +435,7 @@
       <li><span class="ci">🏰</span><div><strong>Dalhousie Castle</strong> — 13th-century Scottish castle near Edinburgh; book 6–9 months out for July · <a href="https://www.dalhousiecastle.co.uk" target="_blank">dalhousiecastle.co.uk</a></div></li>
       <li><span class="ci">✈️</span><div><strong>Loganair Glasgow ↔ Islay flights</strong> — both directions; book as soon as dates are confirmed · <a href="https://www.loganair.co.uk" target="_blank">loganair.co.uk</a></div></li>
       <li><span class="ci">🥃</span><div><strong>Islay distillery tours</strong> — Ardbeg, Lagavulin, Laphroaig; book directly with each distillery; July is their busiest season</div></li>
-      <li><span class="ci">🚂</span><div><strong>Train tickets — three journeys:</strong> Bath Spa → London Paddington (GWR, July 5) + King's Cross → Edinburgh (LNER, July 5) + Glasgow Central → London Euston (Avanti, July 12). Book 16+ weeks ahead. <a href="https://www.lner.co.uk" target="_blank">lner.co.uk</a> · <a href="https://www.gwr.com" target="_blank">gwr.com</a> · <a href="https://www.avantitrain.com" target="_blank">avantitrain.com</a></div></li>
+      <li><span class="ci">🚂</span><div><strong>Train ticket to book:</strong> LNER York → London King's Cross (July 12, ~2 hrs). Book 16+ weeks ahead. <a href="https://www.lner.co.uk" target="_blank">lner.co.uk</a></div></li>
       <li><span class="ci">☕</span><div><strong>Fortnum &amp; Mason High Tea</strong> — The Diamond Jubilee Tea Salon books out 2–3 months ahead for July · <a href="https://www.fortnumandmason.com" target="_blank">fortnumandmason.com</a></div></li>
       <li><span class="ci">🎭</span><div><strong>The Mousetrap</strong> — West End booking 2–3 months ahead for July · <a href="https://www.delfontmackintosh.co.uk" target="_blank">delfontmackintosh.co.uk</a></div></li>
       <li><span class="ci">🗓</span><div><strong>Tower of London · Westminster Abbey · Edinburgh Castle · Roman Baths</strong> — timed entry; book 2–4 weeks ahead for July</div></li>
@@ -593,6 +594,7 @@
         <ul class="day-acts">
           <li>Return to Bradford-on-Avon; quiet village wander along the River Avon; calm evening in.</li>
         </ul>
+        <div class="alert info">🌡️ Cooling tip: The River Avon runs through Bradford-on-Avon with calm spots for a paddle or swim. Farleigh Swimming Club (10 min; River Frome; day membership available) is the best local swimming option for a warm afternoon.</div>
       </div>
     </div>
 
@@ -695,86 +697,146 @@
       <div class="accordion-head cotswolds" onclick="toggleAcc(this.parentElement)">
         <span class="day-num">8</span>
         <div class="acc-title">
-          <h3>Train Day — South to Scotland</h3>
-          <p>July 5 · Bath Spa → London Paddington → King's Cross → Edinburgh Waverley</p>
+          <h3>Drive to York</h3>
+          <p>July 5 · Bradford-on-Avon → Yorkshire · ~3.5 hours</p>
         </div>
         <div class="acc-tags">
           <span class="tag family">All Together</span>
-          <span class="tag warn">⚠ Book Trains</span>
+          <span class="tag booked">✓ Home Booked</span>
         </div>
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
         <div class="day-time">☀️ Morning</div>
         <ul class="day-acts">
-          <li>Check out Bradford VRBO. Drop Rental 1 at Bath (Enterprise/Hertz have Bath locations).</li>
-          <li><strong>Bath Spa → London Paddington</strong> (GWR, ~1 hr 20 min; very frequent). gwr.com</li>
+          <li>Check out Bradford VRBO. Load up the car — same rental continues north (no drop needed).</li>
+          <li>Drive Bradford-on-Avon → York (~3.5 hours via A46/M1/A1(M)). Straightforward motorway route.</li>
         </ul>
-        <div class="day-time">🚇 London Transfer</div>
+        <div class="day-time">🌅 Afternoon — Arrive York</div>
         <ul class="day-acts">
-          <li>Cross London: Tube Circle Line Paddington → King's Cross (~30 min) or taxi (~20 min).</li>
-          <li>Lunch at King's Cross — plenty of options in and around the station.</li>
+          <li>Check into York home. Unpack properly — you're here for 7 nights.</li>
+          <li>Afternoon walk: York City Walls or first look at The Shambles. Get your bearings.</li>
         </ul>
-        <div class="day-time">🚂 Afternoon — LNER to Edinburgh</div>
+        <div class="day-time">🌙 Evening</div>
         <ul class="day-acts">
-          <li><strong>King's Cross → Edinburgh Waverley</strong> (LNER, 4.5 hours; coastal route through Northumberland — one of Britain's great train journeys). lner.co.uk</li>
-          <li>Pick up Rental 2 at Edinburgh on arrival.</li>
-          <li>Drive to Dalhousie Castle (~9 miles south of Edinburgh). Dinner in the dungeon restaurant.</li>
+          <li>Dinner in York — the city has an excellent food scene. Stonegate and Gillygate have good options. GF widely available.</li>
         </ul>
-        <div class="alert warn">⚠ Book LNER tickets 16+ weeks ahead for best advance fares (~£40–60/person). Book GWR Bath → London separately at gwr.com.</div>
+        <div class="alert info">ℹ️ No car needed in York city itself — walk or bus. Use the car for day trips only. Park at the York home for the week.</div>
       </div>
     </div>
 
   </div><!-- /block 2 accordion -->
 
-  <!-- ════ BLOCK 3: SCOTLAND ════ -->
-  <div class="block-header scotland">
-    <span class="block-icon">🏴󠁧󠁢󠁳󠁣󠁴󠁿</span>
+  <!-- ════ BLOCK 3: YORKSHIRE & YORK ════ -->
+  <div class="block-header north">
+    <span class="block-icon">🏛</span>
     <div>
-      <h3>Block 3 — Scotland</h3>
-      <p>Days 9–14 · July 6–11 · Edinburgh · Highlands · Glasgow · Islay</p>
+      <h3>Block 3 — Yorkshire &amp; York</h3>
+      <p>Days 9–14 · July 6–11 · York homebase · Moors · Dales · Swinton Estate</p>
     </div>
-    <span class="block-nights">6 nights + bridge</span>
+    <span class="block-nights">6 nights</span>
   </div>
   <div class="accordion">
 
     <div class="accordion-item">
-      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+      <div class="accordion-head north" onclick="toggleAcc(this.parentElement)">
         <span class="day-num">9</span>
         <div class="acc-title">
-          <h3>Edinburgh: Castle + Royal Mile + Dalhousie</h3>
-          <p>July 6 · Old Town · Crown Jewels · Castle hotel arrival</p>
+          <h3>York City Day — Minster · Shambles · Jorvik</h3>
+          <p>July 6 · Medieval streets · Viking history · Gothic cathedral</p>
         </div>
         <div class="acc-tags">
           <span class="tag family">All Together</span>
-          <span class="tag warn">⚠ Book</span>
+          <span class="tag warn">⚠ Book Jorvik</span>
         </div>
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
         <div class="day-time">☀️ Morning</div>
         <ul class="day-acts">
-          <li><strong>Edinburgh Castle</strong> — Crown Jewels of Scotland, Stone of Destiny, One o'Clock Gun. Book timed entry at edinburghcastle.scot. Allow 2.5 hours.</li>
+          <li><strong>York Minster</strong> — one of the finest Gothic cathedrals in northern Europe; naturally cool inside; climb the tower for views over the city. Allow 1.5–2 hours.</li>
+          <li><strong>The Shambles</strong> — the best-preserved medieval street in England; overhanging timber-framed buildings; widely said to have inspired Diagon Alley. Shambles Market adjacent.</li>
         </ul>
         <div class="day-time">🌅 Afternoon</div>
         <ul class="day-acts">
-          <li><strong>The Royal Mile</strong> — walk the spine of the Old Town from the Castle to Holyrood; closes and wynds reveal medieval Edinburgh.</li>
-          <li><strong>Victoria Street</strong> — the curved, colourful street off the Grassmarket; widely said to have inspired Diagon Alley.</li>
+          <li><strong>JORVIK Viking Centre</strong> — world-class immersive Viking experience built over actual 10th-century Viking excavations. Ride through reconstructed Jorvik; smell, sound, and all. Book timed entry ahead — very popular with families. jorvik-viking-centre.co.uk</li>
+          <li><strong>York City Walls</strong> — 3.4 miles of medieval walls; walk a section for free; great views over the city and Minster.</li>
+          <li><strong>Clifford's Tower</strong> — Norman motte-and-bailey keep; good city views from the top. English Heritage.</li>
         </ul>
         <div class="day-time">🌙 Evening</div>
         <ul class="day-acts">
-          <li>Drive south to <strong>Dalhousie Castle</strong> (~9 miles). Check in.</li>
-          <li>Dinner in the <strong>Dalhousie Castle dungeon restaurant</strong> — one of the genuinely great experiences of this trip.</li>
+          <li><strong>Betty's Café Tea Rooms</strong>, St Helen's Square — York institution since 1936; afternoon tea or early dinner. Worth the short queue.</li>
         </ul>
+        <div class="alert info">🌡️ Cooling tip: York Minster, the city walls, and Jorvik are all naturally cool. On a warm afternoon, the River Ouse riverside walk is shaded and breezy.</div>
       </div>
     </div>
 
     <div class="accordion-item">
-      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+      <div class="accordion-head north" onclick="toggleAcc(this.parentElement)">
         <span class="day-num">10</span>
         <div class="acc-title">
-          <h3>Falconry + Holyroodhouse + Arthur's Seat</h3>
-          <p>July 7 · Dalhousie · Palace · Extinct volcano</p>
+          <h3>National Railway Museum + Harrogate</h3>
+          <p>July 7 · Flying Scotsman · Victorian Turkish Baths · Betty's original</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — National Railway Museum</div>
+        <ul class="day-acts">
+          <li><strong>National Railway Museum</strong>, York — the world's largest railway museum. Free entry. Flying Scotsman and Mallard (world speed record steam locomotive) are here. Genuine wow factor even for non-train people. Allow 2–3 hours. railwaymuseum.org.uk</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — Harrogate</div>
+        <ul class="day-acts">
+          <li>Drive to Harrogate (~30 min).</li>
+          <li><strong>Harrogate Turkish Baths</strong> — restored Victorian splendour; one of the finest in England. Book a session (mixed or single-sex). Genuinely cooling and restorative. harrogateturkishbaths.co.uk</li>
+          <li><strong>Betty's Harrogate</strong> — the original Betty's; slightly less queued than York. Valley Gardens alongside for a stroll.</li>
+        </ul>
+        <div class="alert info">🌡️ Cooling tip: The Turkish Baths are the best purpose-built cooling option on the entire trip. Book in advance for a session.</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head north" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">11</span>
+        <div class="acc-title">
+          <h3>North Yorkshire Moors + Goathland + Whitby</h3>
+          <p>July 8 · Hogsmeade Station · Steam railway · Abbey ruins · Beach</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — North Yorkshire Moors Railway</div>
+        <ul class="day-acts">
+          <li>Drive to Pickering (~25 min from York). Board the <strong>North Yorkshire Moors Railway</strong> steam train to Goathland (~45 min). nymr.co.uk — book ahead for July.</li>
+          <li><strong>Goathland Station</strong> — the actual Hogsmeade Station from Harry Potter film 1. Unchanged from the films; steam trains still run through. The village is charming and walkable.</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — Whitby</div>
+        <ul class="day-acts">
+          <li>Drive to Whitby (~30 min from Goathland).</li>
+          <li><strong>Whitby Abbey</strong> — Gothic ruins on the clifftop; Bram Stoker wrote Dracula inspired by this view; 199 steps up from the harbour. Dramatic and free to see from outside (English Heritage for entry).</li>
+          <li>Fish and chips on the harbour — Whitby is the gold standard. Magpie Café or Trenchers.</li>
+          <li><strong>Robin Hood's Bay</strong> — optional stop on the drive back; tiny fishing village tucked into the cliffs.</li>
+        </ul>
+        <div class="day-time">🏊 Swimming</div>
+        <ul class="day-acts">
+          <li><strong>Whitby beach</strong> — lifeguarded in summer; sandy; good swimming. North Sea is cool (~15–16°C) — refreshing on a warm day. Perfect after the abbey climb.</li>
+        </ul>
+        <div class="alert info">ℹ️ The steam train is the highlight — don't skip it. Book NYMR tickets in advance for July; they sell out on summer weekends.</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head north" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">12</span>
+        <div class="acc-title">
+          <h3>Swinton Estate — Falconry + Fountains Abbey</h3>
+          <p>July 9 · Hawks and falcons · UNESCO ruins · Masham</p>
         </div>
         <div class="acc-tags">
           <span class="tag family">All Together</span>
@@ -783,122 +845,29 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
-        <div class="day-time">☀️ Morning</div>
+        <div class="day-time">☀️ Morning — Swinton Estate</div>
         <ul class="day-acts">
-          <li><strong>Dalhousie Castle falconry session</strong> — book in advance at dalhousiecastle.co.uk. Hawks, owls, and falcons flown on the castle grounds.</li>
+          <li>Drive to Swinton Estate, Masham (~45 min from York).</li>
+          <li><strong>Falconry experience</strong> at Swinton — hawks, falcons, and owls flown on the estate grounds. Book directly and well in advance. swintonpark.com</li>
+          <li><strong>Lunch at Swinton</strong> — the estate has excellent dining; book a table for the family when you book the falconry.</li>
         </ul>
-        <div class="day-time">🌅 Afternoon</div>
+        <div class="day-time">🌅 Afternoon — Fountains Abbey</div>
         <ul class="day-acts">
-          <li><strong>Palace of Holyroodhouse</strong> — the monarch's official Scottish residence; Mary Queen of Scots lived here; her secretary was murdered in her presence in these rooms.</li>
-          <li><strong>Arthur's Seat</strong> — extinct volcano in Holyrood Park; 45-min hike to summit; panoramic views over Edinburgh. Moderate difficulty; fine for all ages.</li>
+          <li><strong>Fountains Abbey &amp; Studley Royal</strong> — UNESCO World Heritage Site; ~15 min from Swinton. One of the finest ruined Cistercian abbeys in Europe, set in a designed water garden. Allow 2 hours. nationaltrust.org.uk</li>
         </ul>
-        <div class="day-time">🌙 Evening</div>
+        <div class="day-time">🥃 Optional — Masham Distilleries</div>
         <ul class="day-acts">
-          <li>Dinner in the Grassmarket or Canongate area. Scotland stays light until 10:30pm in July.</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
-        <span class="day-num">11</span>
-        <div class="acc-title">
-          <h3>Stirling → Loch Lomond → Glencoe → Fort William</h3>
-          <p>July 8 · Highlands transit · Great Scottish landscapes</p>
-        </div>
-        <div class="acc-tags">
-          <span class="tag family">All Together</span>
-        </div>
-        <span class="acc-chevron">▼</span>
-      </div>
-      <div class="accordion-body">
-        <div class="day-time">☀️ Morning</div>
-        <ul class="day-acts">
-          <li><strong>Stirling Castle</strong> — Scotland's most important royal castle; Mary Queen of Scots crowned here aged 9 months. Allow 1.5–2 hours.</li>
-        </ul>
-        <div class="day-time">🌅 Afternoon</div>
-        <ul class="day-acts">
-          <li><strong>Loch Lomond</strong> — drive along the east shore (A82); stop at Luss village for views across the water.</li>
-          <li><strong>Glencoe</strong> — Three Sisters viewpoint; one of the great landscape views in Britain. Site of the 1692 Glencoe Massacre.</li>
-        </ul>
-        <div class="day-time">🌙 Evening</div>
-        <ul class="day-acts">
-          <li>Arrive Fort William. <strong>The Crannog</strong> — fresh seafood on Loch Linnhe; book ahead at crannog.net.</li>
+          <li>Masham has two breweries worth a look: <strong>Black Sheep Brewery</strong> and <strong>Theakston's</strong>. Tours and tasting rooms. Good option while others are at the abbey.</li>
         </ul>
       </div>
     </div>
 
     <div class="accordion-item">
-      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
-        <span class="day-num">12</span>
-        <div class="acc-title">
-          <h3>Fort William → Glasgow</h3>
-          <p>July 9 · Rannoch Moor · Kelvingrove · City evening</p>
-        </div>
-        <div class="acc-tags">
-          <span class="tag family">All Together</span>
-        </div>
-        <span class="acc-chevron">▼</span>
-      </div>
-      <div class="accordion-body">
-        <div class="day-time">☀️ Morning</div>
-        <ul class="day-acts">
-          <li>Leisurely Fort William departure.</li>
-          <li>Drive south via A82 through Rannoch Moor and along Loch Lomond (~2.5 hours; one of Scotland's great drives).</li>
-        </ul>
-        <div class="day-time">🌅 Afternoon — Glasgow</div>
-        <ul class="day-acts">
-          <li><strong>Kelvingrove Art Gallery &amp; Museum</strong> — Dalí's <em>Christ of Saint John of the Cross</em>; Egyptian mummies; Spitfire hanging from the ceiling. Free entry.</li>
-          <li><strong>Glasgow Cathedral</strong> — the only Scottish mainland cathedral to survive the Reformation intact. Free.</li>
-          <li><strong>The Necropolis</strong> — Victorian hillside cemetery behind the cathedral; great city views.</li>
-        </ul>
-        <div class="day-time">🌙 Evening</div>
-        <ul class="day-acts">
-          <li>Dinner in the Merchant City or West End. Glasgow has one of Scotland's best food scenes. Overnight in Glasgow.</li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
+      <div class="accordion-head north" onclick="toggleAcc(this.parentElement)">
         <span class="day-num">13</span>
         <div class="acc-title">
-          <h3>Fly to Islay — Distillery Day</h3>
-          <p>July 10 · Glasgow → Islay · Ardbeg · Lagavulin · Laphroaig</p>
-        </div>
-        <div class="acc-tags">
-          <span class="tag dad">Dad's Pick</span>
-          <span class="tag warn">⚠ Book Flights</span>
-        </div>
-        <span class="acc-chevron">▼</span>
-      </div>
-      <div class="accordion-body">
-        <div class="day-time">✈️ Morning</div>
-        <ul class="day-acts">
-          <li><strong>Fly Glasgow → Islay</strong> (Loganair, ~45 min). Book both directions immediately — small plane, fills fast. loganair.co.uk</li>
-          <li>Check into accommodation in Port Ellen or Bowmore.</li>
-        </ul>
-        <div class="day-time">🥃 Afternoon — South Coast Distillery Circuit</div>
-        <ul class="day-acts">
-          <li><strong>Ardbeg</strong> — intensely peaty; Old Kiln Café is the best lunch on the island. ardbeg.com</li>
-          <li><strong>Lagavulin</strong> — classic Islay malt; beautiful waterfront location. discovering.lagavulin.com</li>
-          <li><strong>Laphroaig</strong> — Royal Warrant holder; peat bog tours available. laphroaig.com</li>
-          <li>All three distilleries are within 3 miles of each other on the south coast.</li>
-        </ul>
-        <div class="day-time">🌙 Evening</div>
-        <ul class="day-acts">
-          <li>Bowmore village; dinner at The Harbour Inn. Long, quiet July evening on the island.</li>
-        </ul>
-        <div class="alert info">ℹ️ Distilled whisky is generally safe for celiacs — confirm with each distillery. Book distillery tours directly well in advance.</div>
-      </div>
-    </div>
-
-    <div class="accordion-item">
-      <div class="accordion-head scotland" onclick="toggleAcc(this.parentElement)">
-        <span class="day-num">14</span>
-        <div class="acc-title">
-          <h3>Islay → Glasgow Bridge Night</h3>
-          <p>July 11 · Kilchoman optional · Fly home to Glasgow</p>
+          <h3>Yorkshire Dales — Bolton Abbey + Malham</h3>
+          <p>July 10 · River swimming · Limestone landscape · Priory ruins</p>
         </div>
         <div class="acc-tags">
           <span class="tag family">All Together</span>
@@ -906,17 +875,47 @@
         <span class="acc-chevron">▼</span>
       </div>
       <div class="accordion-body">
-        <div class="day-time">☀️ Morning</div>
+        <div class="day-time">☀️ Morning — Bolton Abbey</div>
         <ul class="day-acts">
-          <li>Optional: <strong>Kilchoman Distillery</strong> — farm distillery; smallest on Islay; very personal experience. ~20 min from Bowmore. kilchomandistillery.com</li>
-          <li>Fly Islay → Glasgow (Loganair morning flight).</li>
+          <li><strong>Bolton Abbey</strong> (~45 min from York) — ruins of a 12th-century Augustinian priory on the River Wharfe; stepping stones across the river; beautiful woodland walks. Free to walk the grounds.</li>
+          <li><strong>River Wharfe swimming</strong> — one of the classic Dales wild swimming spots. Calm, clear, and family-friendly at the Bolton Abbey stretch. Cool and refreshing in July.</li>
         </ul>
-        <div class="day-time">🌅 Afternoon</div>
+        <div class="day-time">🌅 Afternoon — Malham</div>
         <ul class="day-acts">
-          <li>Return Rental 2 at Glasgow Airport.</li>
-          <li>Overnight near Glasgow Airport (Premier Inn or similar — simple bridge night before tomorrow's London train).</li>
+          <li><strong>Malham Cove</strong> — vast curved limestone cliff face with a limestone pavement at the top (featured in Harry Potter and the Deathly Hallows). Moderate 20-min walk up.</li>
+          <li><strong>Gordale Scar</strong> — dramatic limestone gorge a short walk from Malham; one of the great landscape surprises in England.</li>
         </ul>
-        <div class="alert info">ℹ️ Tomorrow: Avanti West Coast train Glasgow Central → London Euston (~4.5 hrs). Book well ahead at avantitrain.com.</div>
+        <div class="alert info">🏊 Swimming tip: Bring towels and swimwear for Bolton Abbey — the River Wharfe here is one of the best family swimming spots in the north of England.</div>
+      </div>
+    </div>
+
+    <div class="accordion-item">
+      <div class="accordion-head north" onclick="toggleAcc(this.parentElement)">
+        <span class="day-num">14</span>
+        <div class="acc-title">
+          <h3>Castle Howard + Last York Day</h3>
+          <p>July 11 · Baroque stately home · Final York afternoon</p>
+        </div>
+        <div class="acc-tags">
+          <span class="tag family">All Together</span>
+        </div>
+        <span class="acc-chevron">▼</span>
+      </div>
+      <div class="accordion-body">
+        <div class="day-time">☀️ Morning — Castle Howard</div>
+        <ul class="day-acts">
+          <li><strong>Castle Howard</strong> (~30 min from York) — one of England's great baroque houses; filmed for Brideshead Revisited and Bridgerton. Stunning grounds, fountains, and walled garden. Allow 2–3 hours. castlehoward.co.uk</li>
+        </ul>
+        <div class="day-time">🌅 Afternoon — Last York Hours</div>
+        <ul class="day-acts">
+          <li>Return to York for a final afternoon. Yorkshire Museum and gardens if not visited. Riverside walk along the Ouse.</li>
+          <li>Any missed York spots — Merchant Adventurers' Hall (medieval guildhall), Stonegate, the Shambles again at golden hour.</li>
+        </ul>
+        <div class="day-time">🌙 Evening</div>
+        <ul class="day-acts">
+          <li>Farewell Yorkshire dinner. Drop rental car at York — LNER to London tomorrow morning.</li>
+        </ul>
+        <div class="alert info">ℹ️ Tomorrow: LNER York → London King's Cross (~2 hours; very frequent; book ahead). Much faster than driving — and no London parking to deal with.</div>
       </div>
     </div>
 
@@ -938,7 +937,7 @@
         <span class="day-num">15</span>
         <div class="acc-title">
           <h3>Arrive London — Settle In</h3>
-          <p>July 12 · Glasgow → London · Check in · Rest</p>
+          <p>July 12 · York → London King's Cross · Check in · Rest</p>
         </div>
         <div class="acc-tags">
           <span class="tag family">All Together</span>
@@ -948,7 +947,7 @@
       <div class="accordion-body">
         <div class="day-time">☀️ Morning</div>
         <ul class="day-acts">
-          <li><strong>Glasgow Central → London Euston</strong> (Avanti West Coast, ~4.5 hours). Book well ahead at avantitrain.com.</li>
+          <li>Drop rental car at York. <strong>LNER York → London King's Cross</strong> (~2 hours; very frequent service; trains every 30 min). Book ahead at lner.co.uk. Arrive King's Cross mid-morning.</li>
         </ul>
         <div class="day-time">🌅 Afternoon</div>
         <ul class="day-acts">
@@ -1076,6 +1075,11 @@
         <div class="day-time">🌅 Afternoon</div>
         <ul class="day-acts">
           <li><strong>South Bank walk</strong> — Tate Modern, the Millennium Bridge, Borough Market area. Relaxed afternoon; no agenda.</li>
+        </ul>
+        <div class="day-time">🏊 Optional — London Swimming</div>
+        <ul class="day-acts">
+          <li><strong>Hampstead Heath Ponds</strong> (north London, ~30 min by Tube) — lifeguarded freshwater swimming ponds; men's, women's, and mixed. A genuine London institution. Free. Perfect on a warm last day.</li>
+          <li><strong>Serpentine Lido</strong>, Hyde Park — designated lake swimming area; lifeguarded; small entry fee. Central and easy.</li>
         </ul>
         <div class="day-time">🌙 Evening</div>
         <ul class="day-acts">
@@ -1439,7 +1443,7 @@
     <div class="card north">
       <span class="card-icon">🚗</span>
       <h3>Getting Around</h3>
-      <p>7-seat rental MPV for a family of 5 with bags. Drive on the left. Roundabouts everywhere — yield to traffic already on them. Avoid central London driving (congestion charge + no parking). Use Tube &amp; trains in the city.<br><br><strong>Two rentals:</strong> Rental 1 — pick up Heathrow June 28, drop off Bath Spa July 5. Rental 2 — pick up Edinburgh July 5, drop off Glasgow Airport July 11. No car needed in London.</p>
+      <p>7-seat rental MPV for a family of 5 with bags. Drive on the left. Roundabouts everywhere — yield to traffic already on them. Avoid central London driving (congestion charge + no parking). Use Tube &amp; trains in the city.<br><br><strong>One rental car:</strong> Pick up Heathrow June 28. Drive Windsor → Bradford → York. Drop off York city, July 12. LNER train York → London King's Cross (~2 hrs). No car needed in London.</p>
     </div>
     <div class="card cotswolds">
       <span class="card-icon">🍞</span>
@@ -1473,7 +1477,7 @@
     <div class="card london">
       <span class="card-icon">🚂</span>
       <h3>London Tips</h3>
-      <p>Oyster card or contactless bank card works on all Tube, Overground, and Elizabeth Line services — no need to buy tickets. Daily fare cap applies automatically.<br><br><strong>Three train journeys to book:</strong> GWR Bath Spa → London Paddington · LNER King's Cross → Edinburgh Waverley (~4.5 hrs, scenic) · Avanti Glasgow Central → London Euston (~4.5 hrs). All: book 16+ weeks ahead for best advance fares.</p>
+      <p>Oyster card or contactless bank card works on all Tube, Overground, and Elizabeth Line services — no need to buy tickets. Daily fare cap applies automatically.<br><br><strong>Key train to book:</strong> LNER York → London King's Cross (July 12, ~2 hrs; very frequent). Book 16+ weeks ahead at lner.co.uk. Also: North Yorkshire Moors Railway (Pickering → Goathland steam train, Day 11) — book at nymr.co.uk.</p>
     </div>
   </div>
 </section>
