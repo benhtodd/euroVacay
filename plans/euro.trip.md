@@ -117,9 +117,8 @@ Better experience, inside the stones, no crowds.
   Allow 1–1.5 hours. (~8 miles from Stonehenge)
 - Afternoon: **Lacock village** — entirely National Trust-owned; almost no modern signage;
   arrive afternoon when coach tours have gone. Harry Potter filming location (Hogwarts corridors).
-- Evening (~7:00pm): **Stonehenge sunset inner circle tour** — walk freely among the stones;
-  no barriers, no crowds. Tour ~7:00–9:00pm; sunset ~9:15–9:30pm in early July.
-  (~£50–55/person; extremely limited). Book immediately: english-heritage.org.uk
+- Evening: **Stonehenge sunset inner circle tour — 7:00pm, July 2** ✓ BOOKED
+  Walk freely among the stones; no barriers, no crowds. Sunset ~9:15–9:30pm.
 
 ---
 
@@ -402,7 +401,7 @@ Check out VRBO. Transfer to Heathrow. LHR → SEA.
 5. **Windsor Airbnb** (June 28–29) — ✓ BOOKED (walkable to Windsor Castle)
 5. **Swinton Estate falconry** (July 9) — book directly; swintonpark.com
 6. **North Yorkshire Moors Railway** (July 8, Pickering → Goathland) — book ahead for July; nymr.co.uk
-7. **Stonehenge inner circle** (~£50–55/person) — very limited; book with flights; english-heritage.org.uk
+7. **Stonehenge sunset inner circle** (July 2, 7:00pm) — ✓ BOOKED
 8. **Harrogate Turkish Baths** (July 7) — book a session; harrogateturkishbaths.co.uk
 9. **LNER York → London King's Cross** (July 12) — book 16+ weeks ahead; lner.co.uk
 10. **Thornbury Castle** (dinner, July 4) — call to check; thornburycastle.co.uk
