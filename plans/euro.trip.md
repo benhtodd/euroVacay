@@ -108,15 +108,19 @@ A gentle first full countryside day. Avebury is only 30 min from Bradford.
 
 ---
 
-**Day 5 (July 2) — Salisbury + Lacock + Stonehenge Sunset Inner Circle**
+**Day 5 (July 2) — Salisbury + Afternoon Options + Stonehenge Sunset Inner Circle**
 
 Skipping standard daytime Stonehenge entry — doing the sunset inner circle tour instead.
 Better experience, inside the stones, no crowds.
 
 - Morning: **Salisbury Cathedral** — England's tallest spire; one of four surviving 1215 Magna Cartas.
   Allow 1–1.5 hours. (~8 miles from Stonehenge)
-- Afternoon: **Lacock village** — entirely National Trust-owned; almost no modern signage;
-  arrive afternoon when coach tours have gone. Harry Potter filming location (Hogwarts corridors).
+- Afternoon (decide on the day — two good options):
+  - **Option A — Lacock village** — entirely National Trust-owned; almost no modern signage;
+    arrive afternoon when coach tours have gone. ~20 min from Bradford.
+  - **Option B — Prehistoric trail** — Old Sarum hill fort → Woodhenge → Durrington Walls
+    (Neolithic settlement linked to the Stonehenge builders). All en route to Stonehenge;
+    thematically immersive lead-up to the sunset tour.
 - Evening 7:00pm: **Stonehenge sunset inner circle tour** ✓ BOOKED
   Walk freely among the stones; no barriers, no crowds. Sunset ~9:15–9:30pm.
 
@@ -193,16 +197,15 @@ shaded and breezy on warm afternoons.*
 
 ---
 
-**Day 10 (July 7) — National Railway Museum + Harrogate**
+**Day 10 (July 7) — National Railway Museum + Wharram Percy**
 
 - Morning: **National Railway Museum**, York — world's largest; free entry. Flying Scotsman
   and Mallard (world speed record locomotive) are here. Allow 2–3 hours. railwaymuseum.org.uk
-- Afternoon: Drive to Harrogate (~30 min)
-- **Betty's Harrogate** — the original Betty's; slightly less queued than York
-- **Valley Gardens** — beautiful Victorian park alongside Betty's
-- **RHS Garden Harlow Carr** — award-winning RHS garden on the edge of Harrogate. rhs.org.uk/gardens/harlow-carr
-
-Note: Harrogate Turkish Baths have age restrictions — not suitable for the 14-year-olds.
+- Afternoon: Drive to **Wharram Percy** (~50 min from York) — a deserted medieval village
+  on the Yorkshire Wolds, abandoned in the 15th century. Ruins of the church, cottages,
+  and fishponds survive in an eerily peaceful valley. Free; English Heritage.
+  Short walk down from the car park to the village site. One of those hidden places that
+  feels genuinely discovered.
 
 ---
 
@@ -288,14 +291,21 @@ WB Studio Tour done on Day 3 — London has 5 full days free for everything else
 
 **Day 16 (July 13) — Richmond + Ted Lasso + The Mousetrap**
 
-*Afternoon:*
-- Richmond Park (2,500 acres; free-roaming red and fallow deer)
-- Richmond Hill viewpoint (the only view in England protected by Act of Parliament)
-- The Prince's Head pub, Richmond Green (the actual Crown & Anchor from Ted Lasso)
+*Afternoon (two options — decide on the day based on energy):*
+
+- **Option A — Full Richmond afternoon:**
+  Richmond Park (2,500 acres; red and fallow deer) → Richmond Hill viewpoint →
+  The Prince's Head pub, Richmond Green (the actual Crown & Anchor from Ted Lasso).
+  Relaxed pace; easy walk back to station for the West End.
+
+- **Option B — Richmond morning + Hampton Court Palace afternoon:**
+  Richmond Park briefly → train to Hampton Court (~35 min) →
+  **Hampton Court Palace** — Henry VIII's great Tudor palace; State Apartments,
+  Tudor kitchens, the famous Maze, and beautiful gardens. Allow 3–4 hours. (~£28/adult)
+  hrp.org.uk → train back to central London for the Mousetrap.
 
 *Evening:*
-- The Mousetrap, St Martin's Theatre (~7:30pm curtain). Agatha Christie; running since 1952.
-  Book at delfontmackintosh.co.uk — 2–3 months ahead for July.
+- The Mousetrap, St Martin's Theatre (~7:30pm curtain). ✓ BOOKED July 13.
 - Pre-theatre dinner near Covent Garden
 
 ---
@@ -318,24 +328,28 @@ WB Studio Tour done on Day 3 — London has 5 full days free for everything else
 
 ---
 
-**Day 18 (July 15) — British Museum + Tower + Leadenhall + Globe**
+**Day 18 (July 15) — Tower of London + Borough Market + Globe**
 
-- Morning: **British Museum** — Rosetta Stone, Elgin Marbles, Egyptian mummies, Sutton Hoo
-  helmet. Free. Arrive at opening (10am). Allow 2.5–3 hours.
-- Afternoon: **Tower of London** — Crown Jewels, Beefeater tour, White Tower armour.
-  Book timed entry at hrp.org.uk. Allow 2.5–3 hours.
+- 9:00am: **Tower of London** — Crown Jewels first, then Beefeater tour, White Tower armour.
+  Allow 2.5–3 hours.
+  - Parents + 14-year-olds: HRP family membership, no pre-booking required.
+  - 19-year-old: 9:00am timed entry ticket ✓ BOOKED.
   **Tower Bridge** walk (free, 10 min)
   **Leadenhall Market** — Victorian iron-and-glass covered market; 10-min walk
+- Late morning (~11:30am): **Borough Market** — arrive before the lunch rush; outstanding GF
+  options; one of the best food markets in Europe. Lunch here.
 - Evening: **Shakespeare's Globe Theatre** — evening performance (~7:30pm).
   Groundling yard tickets £5; gallery seats £25–45. shakespearesglobe.com
-  **Borough Market** — outstanding GF dinner options
 
 ---
 
 **Day 19 (July 16) — Last London Day**
 
-- **National Gallery**, Trafalgar Square (free)
-- **South Bank walk** — Tate Modern, Millennium Bridge, Borough Market
+- Morning: **British Museum** — Rosetta Stone, Elgin Marbles, Egyptian mummies, Sutton Hoo helmet.
+  Free. Arrive at opening (10am). Allow 2–3 hours.
+- Afternoon: **National Gallery**, Trafalgar Square (free) — Van Gogh, Rembrandt, Turner, Monet.
+  (Swap morning/afternoon depending on energy.)
+- **South Bank walk** — Tate Modern, Millennium Bridge, Covent Garden
 - Optional swimming: **Hampstead Heath Ponds** (lifeguarded freshwater; free) or
   **Serpentine Lido**, Hyde Park (small entry fee) — perfect on a warm last day
 - Quiet last dinner in London
