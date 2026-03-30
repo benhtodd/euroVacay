@@ -117,7 +117,7 @@ Better experience, inside the stones, no crowds.
   Allow 1–1.5 hours. (~8 miles from Stonehenge)
 - Afternoon: **Lacock village** — entirely National Trust-owned; almost no modern signage;
   arrive afternoon when coach tours have gone. Harry Potter filming location (Hogwarts corridors).
-- Evening: **Stonehenge sunset inner circle tour — 7:00pm, July 2** ✓ BOOKED
+- Evening 7:00pm: **Stonehenge sunset inner circle tour** ✓ BOOKED
   Walk freely among the stones; no barriers, no crowds. Sunset ~9:15–9:30pm.
 
 ---
@@ -198,12 +198,11 @@ shaded and breezy on warm afternoons.*
 - Morning: **National Railway Museum**, York — world's largest; free entry. Flying Scotsman
   and Mallard (world speed record locomotive) are here. Allow 2–3 hours. railwaymuseum.org.uk
 - Afternoon: Drive to Harrogate (~30 min)
-- **Harrogate Turkish Baths** — restored Victorian splendour; one of the finest in England.
-  Book a session in advance. harrogateturkishbaths.co.uk
-- **Betty's Harrogate** — the original; slightly less queued than York
-- Valley Gardens, Harrogate for a stroll
+- **Betty's Harrogate** — the original Betty's; slightly less queued than York
+- **Valley Gardens** — beautiful Victorian park alongside Betty's
+- **RHS Garden Harlow Carr** — award-winning RHS garden on the edge of Harrogate. rhs.org.uk/gardens/harlow-carr
 
-🌡️ *The Turkish Baths are the best purpose-built cooling option on the entire trip.*
+Note: Harrogate Turkish Baths have age restrictions — not suitable for the 14-year-olds.
 
 ---
 
@@ -227,8 +226,8 @@ refreshing after the abbey climb.*
 **Day 12 (July 9) — Swinton Estate: Falconry + Meal · Fountains Abbey**
 
 - Morning: Drive to Swinton Estate, Masham (~45 min from York)
-- **Falconry experience** — book directly and well in advance. swintonpark.com
-- **Lunch at Swinton Estate** — book a table when booking the falconry
+- **Falconry experience — 11:00am ✓ BOOKED** — swintonpark.com
+- **Lunch at Swinton Estate** — booked alongside falconry
 - Afternoon: **Fountains Abbey & Studley Royal** (~15 min from Swinton) — UNESCO World
   Heritage Site; one of the finest ruined Cistercian abbeys in Europe in a designed water garden.
   Allow 2 hours. nationaltrust.org.uk
@@ -370,7 +369,7 @@ Check out VRBO. Transfer to Heathrow. LHR → SEA.
 - Stone buildings throughout the trip (cathedrals, castles, museums) stay naturally cool.
 - Best swimming: Farleigh Swimming Club near Bradford (river); River Wharfe at Bolton Abbey;
   Whitby beach; Hampstead Heath Ponds or Serpentine Lido in London.
-- Harrogate Turkish Baths (Day 10) — book in advance; the best purpose-built cooling stop.
+- Harrogate gardens and RHS Harlow Carr provide good shade on warm afternoons.
 
 ---
 
@@ -399,17 +398,15 @@ Check out VRBO. Transfer to Heathrow. LHR → SEA.
 3. **London VRBO** (July 12–17) — ✓ BOOKED
 4. **York home** (July 5–12) — ✓ BOOKED
 5. **Windsor Airbnb** (June 28–29) — ✓ BOOKED (walkable to Windsor Castle)
-5. **Swinton Estate falconry** (July 9) — book directly; swintonpark.com
-6. **North Yorkshire Moors Railway** (July 8, Pickering → Goathland) — book ahead for July; nymr.co.uk
+6. **Swinton Estate falconry** (July 9, 11:00am) — ✓ BOOKED
 7. **Stonehenge sunset inner circle** (July 2, 7:00pm) — ✓ BOOKED
-8. **Harrogate Turkish Baths** (July 7) — book a session; harrogateturkishbaths.co.uk
-9. **LNER York → London King's Cross** (July 12) — book 16+ weeks ahead; lner.co.uk
-10. **Thornbury Castle** (dinner, July 4) — call to check; thornburycastle.co.uk
-11. **Fortnum & Mason High Tea** — 2–3 months ahead; fortnumandmason.com
-12. **The Mousetrap** — 2–3 months ahead; delfontmackintosh.co.uk
-13. **Windsor Castle** timed entry (June 29) — rct.uk
-14. **Stonehenge** standard timed entry — english-heritage.org.uk
-15. **Roman Baths** (July 3) — romanbaths.co.uk
-16. **JORVIK Viking Centre** (July 6) — jorvik-viking-centre.co.uk
-17. **Tower of London** (July 15) — hrp.org.uk
-18. **Westminster Abbey** (July 14) — westminster-abbey.org
+8. **The Mousetrap** (July 13) — ✓ BOOKED
+9. **Roman Baths** (July 3, 9:00am) — ✓ BOOKED
+10. **JORVIK Viking Centre** (July 6, 1:30pm) — ✓ BOOKED
+11. **Tower of London** (July 15) — HRP family membership (parents + 14yo x2); 9:00am ticket booked for 19-year-old ✓
+12. **North Yorkshire Moors Railway** (July 8) — book ahead for July; nymr.co.uk
+13. **LNER York → London King's Cross** (July 12) — book 16+ weeks ahead; lner.co.uk
+14. **Thornbury Castle** (dinner, July 4) — call to check; thornburycastle.co.uk
+15. **Fortnum & Mason High Tea** — 2–3 months ahead; fortnumandmason.com
+16. **Windsor Castle** timed entry (June 29) — rct.uk
+17. **Westminster Abbey** (July 14) — westminster-abbey.org
